@@ -16,9 +16,9 @@ Video File: [Beatrice-Raws] Evangelion 1.0 You Are (Not) Alone [BDRip 1920x1080 
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 166
-Active Line: 174
-Video Position: 16793
+Scroll Position: 180
+Active Line: 183
+Video Position: 18947
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -204,39 +204,41 @@ Dialogue: 0,0:11:41.85,0:11:43.27,Dialouge,,0,0,0,,Chúng ta sẽ hướng dẫn
 Dialogue: 0,0:11:43.60,0:11:44.93,Dialouge,,0,0,0,,Không thể nào...
 Dialogue: 0,0:11:45.94,0:11:48.15,Dialouge,,0,0,0,,Con không thể!
 Dialogue: 0,0:11:48.15,0:11:49.94,Dialouge,,0,0,0,,Con không thể lái thứ này được!
-Dialogue: 0,0:11:50.31,0:11:53.19,Dialouge,,0,0,0,,Nếu lái thì mau lái đi! Còn không thì...
-Dialogue: 0,0:11:53.19,0:11:54.40,Dialouge,,0,0,0,,CÚT!
-Dialogue: 0,0:12:05.08,0:12:07.46,Dialouge,,0,0,0,,Vậy là nó phát hiện ra chỗ này rồi à!
+Dialogue: 0,0:11:50.31,0:11:53.19,Dialouge,,0,0,0,,Làm được thì làm ngay đi! Nếu không thì...{Nếu lái thì mau lái đi! Còn không thì...}
+Dialogue: 0,0:11:53.19,0:11:54.40,Dialouge,,0,0,0,,Cút về!
+Dialogue: 0,0:12:05.08,0:12:07.46,Dialouge,,0,0,0,,Vậy là nó phát hiện ra chỗ này rồi à.
 Dialogue: 0,0:12:08.87,0:12:11.38,Dialouge,,0,0,0,,{\i1}Lớp giáp phòng hộ ngoài cùng lớp thứ 8 bị hư hại! {\i0}
 Dialogue: 0,0:12:11.38,0:12:13.38,Dialouge,,0,0,0,,Shinji-kun, không còn thời gian đâu!
-Dialogue: 0,0:12:13.38,0:12:17.55,Dialouge,,0,0,0,,Hỏa hoạn diện rộng ở khu Block D. \NĐóng khẩn cấp tất cả các lối đi trong khu vực được chỉ định.
+Dialogue: 0,0:12:13.38,0:12:15.55,Dialouge,,0,0,0,,{\i1}Hỏa hoạn diện rộng ở khu Block D. {khu Block D hay những khu của Block D? upd: đã check bản Baws}
+Dialogue: 0,0:12:15.55,0:12:17.55,Dialouge,,0,0,0,,{\i1}Đóng khẩn cấp tất cả các lối đi trong khu vực được chỉ định.
 Dialogue: 0,0:12:17.97,0:12:18.84,Dialouge,,0,0,0,,Hãy lái nó đi!
 Dialogue: 0,0:12:20.18,0:12:21.51,Dialouge,,0,0,0,,Không!
 Dialogue: 0,0:12:21.51,0:12:24.77,Dialouge,,0,0,0,,Mất công để đến đây vậy mà...\Nem không lái thứ này đâu!
 Dialogue: 0,0:12:25.93,0:12:29.27,Dialouge,,0,0,0,,Shinji-kun, em đến đây vì điều gì?
-Dialogue: 0,0:12:31.27,0:12:35.15,Dialouge,,0,0,0,,Đừng trốn chạy như thế! Em phải đối mặt với cha mình,\Nvà trên hết vì bản thân em nữa!
+Dialogue: 0,0:12:31.27,0:12:32.56,Dialouge,,0,0,0,,Đừng trốn chạy như thế!
+Dialogue: 0,0:12:32.56,0:12:35.15,Dialouge,,0,0,0,,Em phải đối mặt với cha mình,\Nvà trên hết vì bản thân em nữa!
 Dialogue: 0,0:12:35.40,0:12:40.20,Dialouge,,0,0,0,,Em biết chứ!\NNhưng mà em không thể làm được!
 Dialogue: 0,0:12:46.95,0:12:47.66,Dialouge,,0,0,0,,Fuyutsuki.
 Dialogue: 0,0:12:48.79,0:12:50.71,Dialouge,,0,0,0,,Đánh thức Rei đi.
-Dialogue: 0,0:12:50.71,0:12:52.00,Dialouge,,0,0,0,,Nó vẫn sử dụng được đúng không?
-Dialogue: 0,0:12:52.00,0:12:54.09,Dialouge,,0,0,0,,Nó vẫn chưa chết đâu!
-Dialogue: 0,0:12:54.88,0:12:55.75,Dialouge,,0,0,0,,Ta hiểu rồi.
+Dialogue: 0,0:12:50.71,0:12:52.00,Dialouge,,0,0,0,,Vẫn dùng được con bé đúng không?{Nó vẫn sử dụng được đúng không?}
+Dialogue: 0,0:12:52.00,0:12:54.09,Dialouge,,0,0,0,,Nó vẫn chưa chết đâu.
+Dialogue: 0,0:12:54.88,0:12:55.75,Dialouge,,0,0,0,,Tôi hiểu rồi.
 Dialogue: 0,0:12:57.46,0:12:58.42,Dialouge,,0,0,0,,Rei.
 Dialogue: 0,0:12:58.42,0:12:59.43,Dialouge,,0,0,0,,Vâng.
 Dialogue: 0,0:12:59.43,0:13:02.43,Dialouge,,0,0,0,,Thằng nhóc dự bị vô dụng rồi,\Nchúng ta cần con lái thêm lần nữa.
 Dialogue: 0,0:13:02.43,0:13:03.22,Dialouge,,0,0,0,,Vâng.
 Dialogue: 0,0:13:05.35,0:13:09.31,Dialouge,,0,0,0,,Chuyển lõi của Unit-01 thành loại L-00 rồi tái khởi động!
-Dialogue: 0,0:13:09.69,0:13:13.36,Dialouge,,0,0,0,,{\i1}Rõ. Đang thực hiện quá trình.\NTiến hành tái khởi động.{\i0}
+Dialogue: 0,0:13:09.69,0:13:13.36,Dialouge,,0,0,0,,{\i1}Rõ. Đang thực hiện quá trình. Tiến hành tái khởi động.{\i0}
 Dialogue: 0,0:13:13.36,0:13:14.69,Dialouge,,0,0,0,,{\i1}Bắt đầu nhập lệnh khởi động.{\i0}
-Dialogue: 0,0:13:14.69,0:13:18.90,Dialouge,,0,0,0,,{\i1\pos(960,960)}Mình biết mà.{\i0}
-Dialogue: 0,0:13:16.19,0:13:18.90,Dialouge,,0,0,0,,{\i1}Mình đúng là đứa vô dụng mà!{\i0}
+Dialogue: 0,0:13:14.69,0:13:16.11,Dialouge,,0,0,0,,{\i1}Mình biết mà.{\i0}
+Dialogue: 0,0:13:17.04,0:13:18.90,Dialouge,,0,0,0,,{\i1}Mình đúng là đứa vô dụng mà!{\i0}
 Dialogue: 0,0:13:19.36,0:13:21.28,Dialouge,,0,0,0,,{\i1}Mục tiêu đã phá vỡ tuyến phòng thủ cuối,{\i0}
 Dialogue: 0,0:13:21.28,0:13:23.78,Dialouge,,0,0,0,,{\i1}và nó vẫn đang tiếp tục hướng đến chỗ chúng ta.{\i0}
 Dialogue: 0,0:14:00.24,0:14:01.20,Dialouge,,0,0,0,,Cậu có sao không?
-Dialogue: 0,0:14:17.75,0:14:22.88,Dialouge,,0,0,0,,{\i1}Không được bỏ chạy, không được bỏ chạy, không được bỏ chạy, không được bỏ chạy...{\i0}
+Dialogue: 0,0:14:17.75,0:14:22.88,Dialouge,,0,0,0,,{\i1}Không được bỏ chạy...{\i0}
 Dialogue: 0,0:14:22.88,0:14:23.80,Dialouge,,0,0,0,,{\i1}Không được bỏ chạy!{\i0}
-Dialogue: 0,0:14:25.01,0:14:25.80,Dialouge,,0,0,0,,Con sẽ làm!
-Dialogue: 0,0:14:26.26,0:14:27.55,Dialouge,,0,0,0,,Con sẽ lái nó!
+Dialogue: 0,0:14:25.01,0:14:25.80,Dialouge,,0,0,0,,Em sẽ làm!
+Dialogue: 0,0:14:26.26,0:14:27.55,Dialouge,,0,0,0,,Em sẽ lái nó!
 Dialogue: 0,0:14:30.22,0:14:31.98,Dialouge,,0,0,0,,{\i1}Hoàn tất rã đông giai đoạn III.{\i0} {tlc}
 Dialogue: 0,0:14:31.98,0:14:33.52,Dialouge,,0,0,0,,{\i1}Dừng quay bánh đà. {\i0}
 Dialogue: 0,0:14:33.69,0:14:34.81,Dialouge,,0,0,0,,{\i1}Mở khóa đầu nối.{\i0}
