@@ -15,8 +15,10 @@ Audio File: [Beatrice-Raws] Evangelion 1.0 You Are (Not) Alone [BDRip 1920x1080 
 Video File: [Beatrice-Raws] Evangelion 1.0 You Are (Not) Alone [BDRip 1920x1080 HEVC TrueHD]/[Beatrice-Raws] Evangelion 1.0 You Are (Not) Alone [BDRip 1920x1080 HEVC TrueHD].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Video Position: 1663
+Video Zoom Percent: 0.625000
+Scroll Position: 557
+Active Line: 563
+Video Position: 26910
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -450,9 +452,9 @@ Dialogue: 0,0:14:34.81,0:14:36.19,Dialouge,,0,0,0,,{\i1}Năng lượng dự phò
 Dialogue: 0,0:14:34.83,0:14:36.18,Dialouge - Eng,,0,0,0,,{\i1}No problems with the auxiliary power.{\i0}
 Dialogue: 0,0:14:36.35,0:14:38.52,Dialouge - Eng,,0,0,0,,Shutdown signal plug extraction complete.
 Dialogue: 0,0:14:36.36,0:14:38.52,Dialouge,,0,0,0,,Hoàn tất tắt tín hiệu cắm trích xuất.
-Dialogue: 0,0:14:38.82,0:14:41.44,Dialouge,,0,0,0,,{\i1}Rõ. Tiến hành cắm lõi.{\i0}
+Dialogue: 0,0:14:38.82,0:14:41.44,Dialouge,,0,0,0,,{\i1}Rõ. Tiến hành cắm lõi{check thuật ngữ - gắn ống cắm/gắn Entry Plug}.{\i0}
 Dialogue: 0,0:14:38.83,0:14:41.44,Dialouge - Eng,,0,0,0,,{\i1}Roger, inserting entry plug.{\i0}
-Dialogue: 0,0:14:41.44,0:14:44.99,Dialouge,,0,0,0,,{\i1}Mở khóa hệ thống dẫn truyền Tủy sống.\N Chuẩn bị kết nối.{\i0}
+Dialogue: 0,0:14:41.44,0:14:44.99,Dialouge,,0,0,0,,{\i1}Mở khóa hệ thống dẫn truyền Tủy sống. Chuẩn bị kết nối.{\i0}
 Dialogue: 0,0:14:41.44,0:14:44.97,Dialouge - Eng,,0,0,0,,{\i1}Unlocking spinal conductive network. Prepare for connection.{\i0}
 Dialogue: 0,0:14:47.74,0:14:49.45,Dialouge,,0,0,0,,{\i1}Hoàn tất cắm kim thăm dò.{\i0}
 Dialogue: 0,0:14:47.75,0:14:49.44,Dialouge - Eng,,0,0,0,,{\i1}Probe needle insertion complete.{\i0}
@@ -460,12 +462,12 @@ Dialogue: 0,0:14:49.44,0:14:52.74,Dialouge - Eng,,0,0,0,,{\i1}Prime sync establi
 Dialogue: 0,0:14:49.45,0:14:52.75,Dialouge,,0,0,0,,{\i1}Độ sâu lõi cắm duy trì ở mức 20. Mức độ suy nhược thần kinh ở mức cho phép.{\i0}
 Dialogue: 0,0:14:52.74,0:14:55.33,Dialouge - Eng,,0,0,0,,{\i1}Maintaining range between plus-02 and minus-05.{\i0}
 Dialogue: 0,0:14:52.75,0:14:55.33,Dialouge,,0,0,0,,{\i1}Duy trì ở khoảng +02 và -05.{\i0}
-Dialogue: 0,0:14:55.62,0:14:57.88,Dialouge,,0,0,0,,{\i1}Hoàn tất cố định phần bên trong.{\i0}
+Dialogue: 0,0:14:55.62,0:14:57.88,Dialouge,,0,0,0,,{\i1}Hoàn tất cố định phần bên trong.{\i0} {check đồng nhất với TS bên preview 3.0+1.0}
 Dialogue: 0,0:14:55.64,0:14:57.88,Dialouge - Eng,,0,0,0,,{\i1}Locking down interior array.{\i0}
 Dialogue: 0,0:14:57.88,0:14:59.96,Dialouge,,0,0,0,,{\i1}Rõ. Bắt đầu kết nối giai đoạn 1.{\i0}
 Dialogue: 0,0:14:57.88,0:14:59.96,Dialouge - Eng,,0,0,0,,{\i1}Roger, starting first contact.{\i0}
 Dialogue: 0,0:15:01.49,0:15:03.17,Dialouge - Eng,,0,0,0,,{\i1}Flooding Entry Plug.{\i0}
-Dialogue: 0,0:15:01.51,0:15:03.17,Dialouge,,0,0,0,,{\i1}Lấp đầy Entry Plug.{\i0}
+Dialogue: 0,0:15:01.51,0:15:03.17,Dialouge,,0,0,0,,{\i1}Lấp đầy Entry Plug.{\i0} {tại sao ở trên ảnh để "lõi" mà dưới đây lại để bản gốc nhỉ? weird - check thuật ngữ sau}
 Dialogue: 0,0:15:04.63,0:15:05.59,Dialouge,,0,0,0,,Cái gì thế này?
 Dialogue: 0,0:15:04.64,0:15:05.61,Dialouge - Eng,,0,0,0,,W-What is this?
 Dialogue: 0,0:15:08.18,0:15:09.22,Dialouge,,0,0,0,,Không sao đâu!
@@ -474,32 +476,32 @@ Dialogue: 0,0:15:09.22,0:15:13.56,Dialouge,,0,0,0,,Một khi chất LCL tràn v�
 Dialogue: 0,0:15:09.22,0:15:13.55,Dialouge - Eng,,0,0,0,,Once the LCL fills your lungs, it will provide oxygen directly to your blood.
 Dialogue: 0,0:15:13.93,0:15:15.35,Dialouge,,0,0,0,,Em sẽ quen ngay thôi.
 Dialogue: 0,0:15:13.95,0:15:15.35,Dialouge - Eng,,0,0,0,,You'll get used to it.
-Dialogue: 0,0:15:17.10,0:15:18.77,Dialouge,,0,0,0,,{\i1}Hoàn tất kết nối với nguồn diện chính.{\i0}
+Dialogue: 0,0:15:17.10,0:15:18.77,Dialouge,,0,0,0,,{\i1}Hoàn tất kết nối với nguồn điện chính.{\i0}
 Dialogue: 0,0:15:17.12,0:15:18.76,Dialouge - Eng,,0,0,0,,{\i1}Main power source connection complete.{\i0}
 Dialogue: 0,0:15:18.76,0:15:19.44,Dialouge - Eng,,0,0,0,,{\i1}Roger.{\i0}
 Dialogue: 0,0:15:18.77,0:15:19.44,Dialouge,,0,0,0,,{\i1}Rõ.{\i0}
-Dialogue: 0,0:15:19.44,0:15:21.44,Dialouge,,0,0,0,,{\i1}Bắt đầu gian đoạn kết nối thứ 2.{\i0}
+Dialogue: 0,0:15:19.44,0:15:21.44,Dialouge,,0,0,0,,{\i1}Bắt đầu giai đoạn kết nối thứ 2.{\i0}
 Dialogue: 0,0:15:19.44,0:15:21.44,Dialouge - Eng,,0,0,0,,{\i1}Starting second contact.{\i0}
 Dialogue: 0,0:15:21.44,0:15:22.69,Dialouge,,0,0,0,,{\i1}Bắt đầu tải giao diện.{\i0}
 Dialogue: 0,0:15:21.44,0:15:22.69,Dialouge - Eng,,0,0,0,,{\i1}Initializing interface.{\i0}
 Dialogue: 0,0:15:25.07,0:15:27.49,Dialouge,,0,0,0,,{\i1}Kết nối thần kinh A-10 ổn định.{\i0}
 Dialogue: 0,0:15:25.08,0:15:27.48,Dialouge - Eng,,0,0,0,,{\i1}A-10 nerve connection is normal.{\i0}
 Dialogue: 0,0:15:27.48,0:15:30.08,Dialouge - Eng,,0,0,0,,{\i1}LCL ionization levels normal.{\i0}
-Dialogue: 0,0:15:27.49,0:15:30.08,Dialouge,,0,0,0,,{\i1}Mức độ Ion hóa LCL bình thường.{\i0}
-Dialogue: 0,0:15:30.08,0:15:33.25,Dialouge,,0,0,0,,{\i1}Đặt tiếng Nhật làm ngôn nghữ giao tiếp cơ bản.{\i0}
-Dialogue: 0,0:15:30.08,0:15:33.23,Dialouge - Eng,,0,0,0,,{\i1}Set Japanese as the linguistic norm for cognitive interface.{\i0}
+Dialogue: 0,0:15:27.49,0:15:30.08,Dialouge,,0,0,0,,{\i1}Mức độ ion hóa LCL bình thường.{\i0}
+Dialogue: 0,0:15:30.08,0:15:33.25,Dialouge,,0,0,0,,{\i1}Đặt tiếng Nhật làm ngôn ngữ giao tiếp cơ bản.{\i0}
+Comment: 0,0:15:30.08,0:15:33.23,Dialouge - Eng,,0,0,0,,{\i1}Set Japanese as the linguistic norm for cognitive interface.{\i0}
 Dialogue: 0,0:15:33.62,0:15:36.12,Dialouge,,0,0,0,,{\i1}Không có vấn đề gì trong lần kết nối đầu tiên.{\i0}
 Dialogue: 0,0:15:33.63,0:15:36.12,Dialouge - Eng,,0,0,0,,{\i1}No problems detected with initial contacts.{\i0}
 Dialogue: 0,0:15:36.12,0:15:38.25,Dialouge,,0,0,0,,{\i1}Thiết lập đường dây giao tiếp.{\i0}
 Dialogue: 0,0:15:36.12,0:15:38.25,Dialouge - Eng,,0,0,0,,{\i1}Communication lines open.{\i0}
 Dialogue: 0,0:15:38.87,0:15:41.25,Dialouge - Eng,,0,0,0,,{\i1}Points on the list up to 1405, all clear.{\i0}
 Dialogue: 0,0:15:38.88,0:15:41.25,Dialouge,,0,0,0,,{\i1}Các điểm trên danh sách hiển thị đến 1405, all clear.{\i0}
-Dialogue: 0,0:15:41.55,0:15:44.80,Dialouge,,0,0,0,,{\i1}Tỉ lệ đồng bộ thần kinh ở mức 41,3%.{\i0}
-Dialogue: 0,0:15:41.56,0:15:44.79,Dialouge - Eng,,0,0,0,,{\i1}Measuring synapse levels. Synchronization rate, 41.3%.{\i0}
-Dialogue: 0,0:15:45.34,0:15:48.14,Dialouge,,0,0,0,,Tuyệt thật! Cho dù vẫn còn chưa mặc Plug suit.
+Dialogue: 0,0:15:41.55,0:15:44.80,Dialouge,,0,0,0,,{\i1}Tỉ lệ đồng bộ thần kinh ở mức 41.3%.{\i0}
+Comment: 0,0:15:41.56,0:15:44.79,Dialouge - Eng,,0,0,0,,{\i1}Measuring synapse levels. Synchronization rate, 41.3%.{\i0}
+Dialogue: 0,0:15:45.34,0:15:48.14,Dialouge,,0,0,0,,Tỷ lệ đạt cao như vậy dù chưa mặc Plug Suit! Tuyệt thật! {Cho dù vẫn còn chưa mặc Plug suit.}
 Dialogue: 0,0:15:45.34,0:15:48.13,Dialouge - Eng,,0,0,0,,And he's not even wearing a plug suit! Amazing!
 Dialogue: 0,0:15:48.13,0:15:52.35,Dialouge - Eng,,0,0,0,,Harmonics are in normal levels. Everything's under control.
-Dialogue: 0,0:15:48.14,0:15:52.35,Dialouge,,0,0,0,,Sóng điểu hòa ở mức bình thường. Mọi thứ đều trong tầm kiểm soát.
+Dialogue: 0,0:15:48.14,0:15:52.35,Dialouge,,0,0,0,,Sóng điều hòa ở mức bình thường. Mọi thứ đều trong tầm kiểm soát.
 Dialogue: 0,0:15:52.35,0:15:53.35,Dialouge,,0,0,0,,Tất cả đã sẵn sàng!
 Dialogue: 0,0:15:52.35,0:15:53.34,Dialouge - Eng,,0,0,0,,We are ready!
 Dialogue: 0,0:15:54.34,0:15:55.35,Dialouge - Eng,,0,0,0,,Prepare to launch!
@@ -536,7 +538,7 @@ Dialogue: 0,0:16:36.63,0:16:39.01,Dialouge - Eng,,0,0,0,,{\i1}Electromagnetic in
 Dialogue: 0,0:16:36.64,0:16:39.02,Dialouge,,0,0,0,,{\i1}Hệ thống cảm ứng điện từ hoạt động bình thường.{\i0}
 Dialogue: 0,0:16:39.31,0:16:42.77,Dialouge,,0,0,0,,{\i1}Hiện tại Unit-01 đang di chuyển đến K-52.{\i0}
 Dialogue: 0,0:16:39.33,0:16:42.77,Dialouge - Eng,,0,0,0,,{\i1}Unit 01 is now moving to K-52.{\i0}
-Dialogue: 0,0:16:42.90,0:16:45.36,Dialouge,,0,0,0,,{\i1}Quá trình phóng đang diễn ra theo kế hoạch.{\i0}
+Dialogue: 0,0:16:42.90,0:16:45.36,Dialouge,,0,0,0,,{\i1}Quy{Quá} trình phóng đang diễn ra theo kế hoạch.{\i0}
 Dialogue: 0,0:16:42.90,0:16:45.35,Dialouge - Eng,,0,0,0,,{\i1}Launch sequence is proceeding normally.{\i0}
 Dialogue: 0,0:16:45.56,0:16:48.69,Dialouge - Eng,,0,0,0,,{\i1}Eva has arrived at the launch terminal hub.{\i0} {tlc}
 Dialogue: 0,0:16:45.57,0:16:48.70,Dialouge,,0,0,0,,{\i1}Eva đã đến khu phóng.{\i0} {tlc}
@@ -549,10 +551,10 @@ Dialogue: 0,0:16:58.84,0:16:59.49,Dialouge - Eng,,0,0,0,,Understood.
 Dialogue: 0,0:17:00.57,0:17:01.99,Dialouge - Eng,,0,0,0,,I have your approval?
 Dialogue: 0,0:17:00.58,0:17:02.00,Dialouge,,0,0,0,,Tôi được quyền ra lệnh chứ?
 Dialogue: 0,0:17:01.99,0:17:03.21,Dialouge - Eng,,0,0,0,,Absolutely.
-Dialogue: 0,0:17:02.00,0:17:03.21,Dialouge,,0,0,0,,Tất nhiên!
+Dialogue: 0,0:17:02.00,0:17:03.21,Dialouge,,0,0,0,,Tất nhiên.
 Dialogue: 0,0:17:03.32,0:17:06.54,Dialouge - Eng,,0,0,0,,Our future depends on defeating the Angels.
-Dialogue: 0,0:17:03.34,0:17:06.55,Dialouge,,0,0,0,,Tương lai của chúng ta phụ thuộc vào việc tiêu diệt Angels.
-Dialogue: 0,0:17:07.21,0:17:10.43,Dialouge,,0,0,0,,Ikari, ông có chắc về việc này chứ?
+Dialogue: 0,0:17:03.34,0:17:06.55,Dialouge,,0,0,0,,Tương lai của chúng ta phụ thuộc vào việc tiêu diệt các Sứ Đồ{Angels}.
+Dialogue: 0,0:17:07.21,0:17:10.43,Dialouge,,0,0,0,,Ikari, anh{ông} có chắc về việc này chứ? {câu này cần phrasing tốt hơn}
 Dialogue: 0,0:17:07.22,0:17:10.42,Dialouge - Eng,,0,0,0,,Ikari, you're absolutely sure about this?
 Dialogue: 0,0:17:11.67,0:17:12.55,Dialouge - Eng,,0,0,0,,LAUNCH!
 Dialogue: 0,0:17:11.68,0:17:12.55,Dialouge,,0,0,0,,PHÓNG!
@@ -561,8 +563,8 @@ Dialogue: 0,0:17:36.62,0:17:38.20,Dialouge,,0,0,0,,{\i1}Em ổn không, Shinji-k
 Dialogue: 0,0:17:38.41,0:17:39.25,Dialouge,,0,0,0,,V-Vâng!
 Dialogue: 0,0:17:38.43,0:17:39.24,Dialouge - Eng,,0,0,0,,Y-Yes.
 Dialogue: 0,0:17:39.56,0:17:41.37,Dialouge - Eng,,0,0,0,,Release the final safety lock!
-Dialogue: 0,0:17:39.58,0:17:41.37,Dialouge,,0,0,0,,Gõ bỏ thiết bị an toàn cuối cùng!
-Dialogue: 0,0:17:42.54,0:17:45.25,Dialouge,,0,0,0,,Evangelion Unit 01, lift off!
+Dialogue: 0,0:17:39.58,0:17:41.37,Dialouge,,0,0,0,,Gỡ bỏ thiết bị an toàn cuối cùng!
+Dialogue: 0,0:17:42.54,0:17:45.25,Dialouge,,0,0,0,,Evangelion Unit 01, lift off! {vãi cả tiếng anh, nhớ chú thích}
 Dialogue: 0,0:17:42.54,0:17:45.25,Dialouge - Eng,,0,0,0,,Evangelion Unit 01, lift off!
 Dialogue: 0,0:17:48.45,0:17:49.13,Dialouge - Eng,,0,0,0,,Shinji-kun...
 Dialogue: 0,0:17:48.46,0:17:49.13,Dialouge,,0,0,0,,Shinji-kun...
@@ -588,7 +590,7 @@ Dialogue: 0,0:18:39.60,0:18:40.89,Dialouge,,0,0,0,,Hệ thống phòng thủ c�
 Dialogue: 0,0:18:39.61,0:18:40.90,Dialouge - Eng,,0,0,0,,What happened to Eva's defensive systems?
 Dialogue: 0,0:18:40.89,0:18:42.35,Dialouge,,0,0,0,,Không có tín hiệu phản hồi!
 Dialogue: 0,0:18:40.90,0:18:42.36,Dialouge - Eng,,0,0,0,,Signal inactive!
-Dialogue: 0,0:18:42.35,0:18:43.44,Dialouge,,0,0,0,,Field không được triển khai!
+Dialogue: 0,0:18:42.35,0:18:43.44,Dialouge,,0,0,0,,Field không được triển khai! {xem xét lại thuật ngữ AT Field}
 Dialogue: 0,0:18:42.36,0:18:43.42,Dialouge - Eng,,0,0,0,,The field isn't expending.
 Dialogue: 0,0:18:43.42,0:18:44.14,Dialouge - Eng,,0,0,0,,It's not working?
 Dialogue: 0,0:18:43.44,0:18:44.14,Dialouge,,0,0,0,,Không được sao?
