@@ -16,9 +16,9 @@ Video File: [Beatrice-Raws] Evangelion 1.0 You Are (Not) Alone [BDRip 1920x1080 
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 557
-Active Line: 563
-Video Position: 26910
+Scroll Position: 633
+Active Line: 640
+Video Position: 31437
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -611,7 +611,7 @@ Dialogue: 0,0:19:15.85,0:19:17.38,Dialouge - Eng,,0,0,0,,{\i1}Operational integr
 Dialogue: 0,0:19:17.59,0:19:18.35,Dialouge,,0,0,0,,Tình hình sao rồi?
 Dialogue: 0,0:19:17.60,0:19:18.34,Dialouge - Eng,,0,0,0,,What's the status?
 Dialogue: 0,0:19:18.58,0:19:21.01,Dialouge - Eng,,0,0,0,,Synchro graph inverting! Pulse entering reflux!
-Dialogue: 0,0:19:18.60,0:19:21.01,Dialouge,,0,0,0,,Xung nhịp của đồ thị đồng bộ dang đảo chiều!
+Dialogue: 0,0:19:18.60,0:19:21.01,Dialouge,,0,0,0,,Xung nhịp của đồ thị đồng bộ đang đảo chiều!
 Dialogue: 0,0:19:21.31,0:19:22.93,Dialouge,,0,0,0,,Mau ngắt mạch! Chặn đường kết nối!
 Dialogue: 0,0:19:21.32,0:19:22.92,Dialouge - Eng,,0,0,0,,Cut off the circuits! Block the flow!
 Dialogue: 0,0:19:22.92,0:19:23.60,Dialouge - Eng,,0,0,0,,We can't!
@@ -620,7 +620,7 @@ Dialogue: 0,0:19:23.72,0:19:25.72,Dialouge - Eng,,0,0,0,,The signal's being refu
 Dialogue: 0,0:19:23.73,0:19:25.73,Dialouge,,0,0,0,,Tín hiệu bị từ chối, chúng ta không thể đóng mạch!
 Dialogue: 0,0:19:25.72,0:19:26.60,Dialouge - Eng,,0,0,0,,Shinji-kun's status?!
 Dialogue: 0,0:19:25.73,0:19:26.60,Dialouge,,0,0,0,,Shinji-kun sao rồi?!
-Dialogue: 0,0:19:26.60,0:19:28.61,Dialouge,,0,0,0,,Không có phản ứng trên Monitor! Chưa thể xác định tình trạng!
+Dialogue: 0,0:19:26.60,0:19:28.61,Dialouge,,0,0,0,,Không có phản ứng trên máy đo{Monitor}! Chưa thể xác định tình trạng!
 Dialogue: 0,0:19:26.60,0:19:28.60,Dialouge - Eng,,0,0,0,,No response from the monitoring system. Condition unknown!
 Dialogue: 0,0:19:28.73,0:19:30.48,Dialouge,,0,0,0,,Unit-01 đã hoàn toàn bất động!
 Dialogue: 0,0:19:28.73,0:19:30.48,Dialouge - Eng,,0,0,0,,Unit 01 has gone silent.
@@ -631,13 +631,13 @@ Dialogue: 0,0:19:32.17,0:19:33.59,Dialouge - Eng,,0,0,0,,That's it!
 Dialogue: 0,0:19:33.59,0:19:36.18,Dialouge - Eng,,0,0,0,,Abort the operation! Pilot rescue has top priority!
 Dialogue: 0,0:19:33.61,0:19:36.20,Dialouge,,0,0,0,,Hủy bỏ chiến dịch! Ưu tiên giải cứu phi công!
 Dialogue: 0,0:19:36.18,0:19:37.69,Dialouge - Eng,,0,0,0,,Emergency plug ejection!
-Dialogue: 0,0:19:36.20,0:19:37.70,Dialouge,,0,0,0,,Cưỡng chế tháo Plug!
+Dialogue: 0,0:19:36.20,0:19:37.70,Dialouge,,0,0,0,,Cưỡng chế tháo Plug{check thuật ngữ (again)}!
 Dialogue: 0,0:19:37.78,0:19:39.99,Dialouge,,0,0,0,,Không thể được! Hoàn toàn không có phản hồi!
 Dialogue: 0,0:19:37.80,0:19:39.99,Dialouge - Eng,,0,0,0,,We can't! It's not responding!
 Dialogue: 0,0:19:40.12,0:19:41.33,Dialouge,,0,0,0,,Cái gì cơ?!
 Dialogue: 0,0:19:40.12,0:19:41.32,Dialouge - Eng,,0,0,0,,What?!
 Dialogue: 0,0:19:48.86,0:19:50.06,Dialouge - Eng,,0,0,0,,{\i1}The Eva has reactivated!{\i0}
-Dialogue: 0,0:19:48.88,0:19:50.04,Dialouge,,0,0,0,,{\i1}Eva tái khởi động!{\i0}
+Dialogue: 0,0:19:48.88,0:19:50.04,Dialouge,,0,0,0,,{\i1}Eva đã tái khởi động!{\i0}
 Dialogue: 0,0:19:50.04,0:19:50.92,Dialouge,,0,0,0,,Sao có thể...
 Dialogue: 0,0:19:50.06,0:19:50.91,Dialouge - Eng,,0,0,0,,Impossible...
 Dialogue: 0,0:19:50.91,0:19:52.75,Dialouge - Eng,,0,0,0,,It should be knocked out!
@@ -666,8 +666,8 @@ Dialogue: 0,0:20:45.30,0:20:47.43,Dialouge - Eng,,0,0,0,,No. It's corroding it.
 Dialogue: 0,0:20:45.31,0:20:47.43,Dialouge,,0,0,0,,Không, là nó đang trung hòa lớp giáp đó!
 Dialogue: 0,0:20:52.13,0:20:54.81,Dialouge - Eng,,0,0,0,,It broke through that AT-Field like it was nothing...
 Dialogue: 0,0:20:52.15,0:20:54.82,Dialouge,,0,0,0,,Cái AT-Field mà nó phá dễ như ăn bánh vậy...
-Dialogue: 0,0:21:51.16,0:21:52.21,Dialouge,,0,0,0,,Eva sao rồi?
-Dialogue: 0,0:21:51.18,0:21:52.19,Dialouge - Eng,,0,0,0,,What is Eva's status?
+Dialogue: 0,0:21:51.16,0:21:52.08,Dialouge,,0,0,0,,Eva sao rồi?
+Dialogue: 0,0:21:51.18,0:21:52.08,Dialouge - Eng,,0,0,0,,What is Eva's status?
 Dialogue: 0,0:22:05.30,0:22:06.35,Dialouge,,0,0,0,,Đó là hình dạng thực sự...
 Dialogue: 0,0:22:05.30,0:22:06.34,Dialouge - Eng,,0,0,0,,Is this Eva's...
 Dialogue: 0,0:22:07.00,0:22:08.26,Dialouge - Eng,,0,0,0,,True form?
