@@ -16,9 +16,9 @@ Video File: [Beatrice-Raws] Evangelion 1.0 You Are (Not) Alone [BDRip 1920x1080 
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 163
-Active Line: 180
-Video Position: 17385
+Scroll Position: 216
+Active Line: 219
+Video Position: 21326
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -146,7 +146,7 @@ Dialogue: 0,0:08:55.85,0:08:57.35,Dialouge,,0,0,0,,Chị chưa đến chỗ này
 Dialogue: 0,0:08:57.35,0:09:00.35,Dialouge,,0,0,0,,Mà thôi! Cứ đi tiếp kiểu gì cũng tới mà!
 Dialogue: 0,0:09:00.90,0:09:02.56,Dialouge,,0,0,0,,{\i1}Hoàn tất giai đoạn làm lạnh thứ cấp.{\i0}
 Dialogue: 0,0:09:02.56,0:09:04.23,Dialouge,,0,0,0,,{\i1}Toàn bộ nhân sự mau chóng di tản.{\i0}
-Dialogue: 0,0:09:04.61,0:09:06.69,Dialouge,,0,0,0,,Mau chóng rã đông bộ phận truyền động cánh tay trái {truyền động hay truyền điện?, mà conductive plating nghe giống "lớp phủ tích điện" (conduct thường liên quan đến điện hoặc nhiệt) hơn. cần xác nhận lại.}
+Dialogue: 0,0:09:04.61,0:09:06.69,Dialouge,,0,0,0,,Mau chóng rã đông bộ phận truyền động cánh tay trái {truyền động hay truyền điện/dẫn truyền?, mà conductive plating nghe giống "lớp phủ tích điện" (conduct thường liên quan đến điện hoặc nhiệt) hơn. cần xác nhận lại.}
 Dialogue: 0,0:09:06.69,0:09:08.74,Dialouge,,0,0,0,,trong khoảng 3 phút cho tôi!
 Dialogue: 0,0:09:08.74,0:09:10.99,Dialouge,,0,0,0,,Và đừng quên dữ liệu về tế bào chết! {apoptosis là 'chết tế bào theo chương trình', là cơ chế sinh học. nói "tế bào chết" không sai, nhưng đó là *kết quả* của cơ chế, chứ ko phải cơ chế. cân nhắc thay đổi nếu hợp.}
 Dialogue: 0,0:09:10.99,0:09:11.53,Dialouge,,0,0,0,,{\i1}Rõ!{\i0}
@@ -208,65 +208,65 @@ Dialogue: 0,0:11:50.31,0:11:52.15,Dialouge,,0,0,0,,Nếu lái thì mau lái đi.
 Dialogue: 0,0:11:52.15,0:11:53.19,Dialouge,,0,0,0,,Còn không thì... {\alpha&HFF&}về!
 Dialogue: 0,0:11:53.19,0:11:54.28,Dialouge,,0,0,0,,Còn không thì... về!
 Dialogue: 0,0:12:05.08,0:12:07.46,Dialouge,,0,0,0,,Vậy là nó phát hiện ra chỗ này rồi à...
-Dialogue: 0,0:12:08.87,0:12:11.38,Dialouge,,0,0,0,,{\i1}Lớp giáp phòng hộ ngoài cùng lớp thứ 8 bị hư hại! {\i0}
+Dialogue: 0,0:12:08.87,0:12:11.38,Dialouge,,0,0,0,,{\i1}Lớp giáp phòng hộ từ 1 đến 8 bị hư hại! {\i0}
 Dialogue: 0,0:12:11.38,0:12:13.38,Dialouge,,0,0,0,,Shinji-kun, không còn thời gian đâu!
-Dialogue: 0,0:12:13.38,0:12:17.55,Dialouge,,0,0,0,,Hỏa hoạn diện rộng ở khu Block D. \NĐóng khẩn cấp tất cả các lối đi trong khu vực được chỉ định.
+Dialogue: 0,0:12:13.38,0:12:17.55,Dialouge,,0,0,0,,Hỏa hoạn diện rộng ở Khu D.{Block D} \NĐóng khẩn cấp tất cả các lối đi trong khu vực được chỉ định. {check "fire door", cửa chống cháy irl, hay thấy dọc lối đi trong trụ sở NERV}
 Dialogue: 0,0:12:17.97,0:12:18.84,Dialouge,,0,0,0,,Hãy lái nó đi!
 Dialogue: 0,0:12:20.18,0:12:21.51,Dialouge,,0,0,0,,Không!
-Dialogue: 0,0:12:21.51,0:12:24.77,Dialouge,,0,0,0,,Mất công để đến đây vậy mà...\Nem không lái thứ này đâu!
+Dialogue: 0,0:12:21.51,0:12:24.77,Dialouge,,0,0,0,,Mất công để đến đây vậy mà...\Nem không lái thứ này đâu! {check hàm ý: ...đúng là đã đến đây rồi, nhưng em không làm được!}
 Dialogue: 0,0:12:25.93,0:12:29.27,Dialouge,,0,0,0,,Shinji-kun, em đến đây vì điều gì?
-Dialogue: 0,0:12:31.27,0:12:35.15,Dialouge,,0,0,0,,Đừng trốn chạy như thế! Em phải đối mặt với cha mình,\Nvà trên hết vì bản thân em nữa!
+Dialogue: 0,0:12:31.27,0:12:35.15,Dialouge,,0,0,0,,Đừng trốn chạy như thế! Em phải đối mặt với cha mình,\Nvà trên hết {vì}với bản thân em nữa!
 Dialogue: 0,0:12:35.40,0:12:40.20,Dialouge,,0,0,0,,Em biết chứ!\NNhưng mà em không thể làm được!
 Dialogue: 0,0:12:46.95,0:12:47.66,Dialouge,,0,0,0,,Fuyutsuki.
 Dialogue: 0,0:12:48.79,0:12:50.71,Dialouge,,0,0,0,,Đánh thức Rei đi.
-Dialogue: 0,0:12:50.71,0:12:52.00,Dialouge,,0,0,0,,Nó vẫn sử dụng được đúng không?
-Dialogue: 0,0:12:52.00,0:12:54.09,Dialouge,,0,0,0,,Nó vẫn chưa chết đâu!
-Dialogue: 0,0:12:54.88,0:12:55.75,Dialouge,,0,0,0,,Ta hiểu rồi.
+Dialogue: 0,0:12:50.71,0:12:52.00,Dialouge,,0,0,0,,Liệu có dùng được con bé không? {-IPM}
+Dialogue: 0,0:12:52.00,0:12:54.09,Dialouge,,0,0,0,,Con bé vẫn chưa chết mà. {-IPM}
+Dialogue: 0,0:12:54.88,0:12:55.75,Dialouge,,0,0,0,,Tôi hiểu rồi.
 Dialogue: 0,0:12:57.46,0:12:58.42,Dialouge,,0,0,0,,Rei.
 Dialogue: 0,0:12:58.42,0:12:59.43,Dialouge,,0,0,0,,Vâng.
-Dialogue: 0,0:12:59.43,0:13:02.43,Dialouge,,0,0,0,,Thằng nhóc dự bị vô dụng rồi,\Nchúng ta cần con lái thêm lần nữa.
+Dialogue: 0,0:12:59.43,0:13:02.43,Dialouge,,0,0,0,,Không dùng được phi công dự bị rồi. Cố thêm lần nữa nhé. {-IPM}{Thằng nhóc dự bị vô dụng rồi,\Nchúng ta cần con lái thêm lần nữa. cũng đc, nhma để xem}
 Dialogue: 0,0:13:02.43,0:13:03.22,Dialouge,,0,0,0,,Vâng.
 Dialogue: 0,0:13:05.35,0:13:09.31,Dialouge,,0,0,0,,Chuyển lõi của Unit-01 thành loại L-00 rồi tái khởi động!
-Dialogue: 0,0:13:09.69,0:13:13.36,Dialouge,,0,0,0,,{\i1}Rõ. Đang thực hiện quá trình.\NTiến hành tái khởi động.{\i0}
+Dialogue: 0,0:13:09.69,0:13:13.36,Dialouge,,0,0,0,,{\i1}Rõ. Đang thực hiện quá trình.{dừng các task hiện tại?}\NTiến hành tái khởi động.{\i0}
 Dialogue: 0,0:13:13.36,0:13:14.69,Dialouge,,0,0,0,,{\i1}Bắt đầu nhập lệnh khởi động.{\i0}
-Dialogue: 0,0:13:14.69,0:13:18.90,Dialouge,,0,0,0,,{\i1\pos(960,960)}Mình biết mà.{\i0}
-Dialogue: 0,0:13:16.19,0:13:18.90,Dialouge,,0,0,0,,{\i1}Mình đúng là đứa vô dụng mà!{\i0}
+Dialogue: 0,0:13:14.69,0:13:16.11,Dialouge,,0,0,0,,{\i1\pos(960,960)}Mình biết mà.{\i0}
+Dialogue: 0,0:13:16.11,0:13:18.90,Dialouge,,0,0,0,,{\i1}Mình đúng là đứa vô dụng mà!{\i0}
 Dialogue: 0,0:13:19.36,0:13:21.28,Dialouge,,0,0,0,,{\i1}Mục tiêu đã phá vỡ tuyến phòng thủ cuối,{\i0}
-Dialogue: 0,0:13:21.28,0:13:23.78,Dialouge,,0,0,0,,{\i1}và nó vẫn đang tiếp tục hướng đến chỗ chúng ta.{\i0}
+Dialogue: 0,0:13:21.28,0:13:23.78,Dialouge,,0,0,0,,{\i1}và nó vẫn đang hướng đến chỗ chúng ta.{\i0}
 Dialogue: 0,0:14:00.24,0:14:01.20,Dialouge,,0,0,0,,Cậu có sao không?
 Dialogue: 0,0:14:17.75,0:14:22.88,Dialouge,,0,0,0,,{\i1}Không được bỏ chạy, không được bỏ chạy, không được bỏ chạy, không được bỏ chạy...{\i0}
 Dialogue: 0,0:14:22.88,0:14:23.80,Dialouge,,0,0,0,,{\i1}Không được bỏ chạy!{\i0}
-Dialogue: 0,0:14:25.01,0:14:25.80,Dialouge,,0,0,0,,Con sẽ làm!
-Dialogue: 0,0:14:26.26,0:14:27.55,Dialouge,,0,0,0,,Con sẽ lái nó!
-Dialogue: 0,0:14:30.22,0:14:31.98,Dialouge,,0,0,0,,{\i1}Hoàn tất rã đông giai đoạn III.{\i0} {tlc}
+Dialogue: 0,0:14:25.01,0:14:25.80,Dialouge,,0,0,0,,Con sẽ làm.
+Dialogue: 0,0:14:26.26,0:14:27.55,Dialouge,,0,0,0,,Để con lái.
+Dialogue: 0,0:14:30.22,0:14:31.98,Dialouge,,0,0,0,,{\i1}Hoàn tất làm mát{rã đông} giai đoạn III.{\i0} {tlc}
 Dialogue: 0,0:14:31.98,0:14:33.52,Dialouge,,0,0,0,,{\i1}Dừng quay bánh đà. {\i0}
 Dialogue: 0,0:14:33.69,0:14:34.81,Dialouge,,0,0,0,,{\i1}Mở khóa đầu nối.{\i0}
 Dialogue: 0,0:14:34.81,0:14:36.19,Dialouge,,0,0,0,,{\i1}Năng lượng dự phòng không có vấn đề.{\i0}
-Dialogue: 0,0:14:36.36,0:14:38.52,Dialouge,,0,0,0,,Hoàn tất tắt tín hiệu cắm trích xuất.
-Dialogue: 0,0:14:38.82,0:14:41.44,Dialouge,,0,0,0,,{\i1}Rõ. Tiến hành cắm lõi.{\i0}
-Dialogue: 0,0:14:41.44,0:14:44.99,Dialouge,,0,0,0,,{\i1}Mở khóa hệ thống dẫn truyền Tủy sống.\N Chuẩn bị kết nối.{\i0}
-Dialogue: 0,0:14:47.74,0:14:49.45,Dialouge,,0,0,0,,{\i1}Hoàn tất cắm kim thăm dò.{\i0}
-Dialogue: 0,0:14:49.45,0:14:52.75,Dialouge,,0,0,0,,{\i1}Độ sâu lõi cắm duy trì ở mức 20. Mức độ suy nhược thần kinh ở mức cho phép.{\i0}
+Dialogue: 0,0:14:36.36,0:14:38.52,Dialouge,,0,0,0,,Hoàn tất tắt tín hiệu cắm trích xuất.{plug ở đây là Entry Plug hay là "dây cắm"? tuỳ vào 1 trong 2 mà ta có (y gốc) hoặc Hoàn tất tắt *tín hiệu (để) tháo* [Entry] Plug.}
+Dialogue: 0,0:14:38.82,0:14:41.44,Dialouge,,0,0,0,,{\i1}Rõ. Tiến hành lắp Entry Plug.{\i0}
+Dialogue: 0,0:14:41.44,0:14:44.99,Dialouge,,0,0,0,,{\i1}{Mở khóa hệ thống dẫn truyền Tủy sống.}Mở khoá mạng lưới dẫn truyền dọc tuỷ. {spinal là tính từ. danh từ chính là "network"}\N Chuẩn bị kết nối.{\i0}
+Dialogue: 0,0:14:47.74,0:14:49.45,Dialouge,,0,0,0,,{\i1}Hoàn tất cắm kim thăm dò.{\i0}{đầu dò, kim dò, nào cũng đc, bỏ chữ thăm}
+Dialogue: 0,0:14:49.45,0:14:52.75,Dialouge,,0,0,0,,{\i1}Độ sâu lõi cắm duy trì ở mức 20{sao nó khác nhau thế? recheck/đã check đúng}. Mức độ suy nhược thần kinh ở mức cho phép.{\i0}
 Dialogue: 0,0:14:52.75,0:14:55.33,Dialouge,,0,0,0,,{\i1}Duy trì ở khoảng +02 và -05.{\i0}
-Dialogue: 0,0:14:55.62,0:14:57.88,Dialouge,,0,0,0,,{\i1}Hoàn tất cố định phần bên trong.{\i0}
-Dialogue: 0,0:14:57.88,0:14:59.96,Dialouge,,0,0,0,,{\i1}Rõ. Bắt đầu kết nối giai đoạn 1.{\i0}
-Dialogue: 0,0:15:01.51,0:15:03.17,Dialouge,,0,0,0,,{\i1}Lấp đầy Entry Plug.{\i0}
+Dialogue: 0,0:14:55.62,0:14:57.88,Dialouge,,0,0,0,,{\i1}Hoàn tất cố định phần bên trong.{\i0} {sú nhưng đủ tốt}
+Dialogue: 0,0:14:57.88,0:14:59.96,Dialouge,,0,0,0,,{\i1}Rõ. Bắt đầu kết nối thứ nhất.{tiếp xúc đầu tiên}{\i0} {nói rõ là "contact" mà, cái "contact" kinh điển với Yui, nên hơi khác tý, sẽ check lại của Yui sau} {để là thứ nhất/thứ hai vì lát sau sẽ có nói "kết nối lần đầu"}
+Dialogue: 0,0:15:01.51,0:15:03.17,Dialouge,,0,0,0,,{\i1}{Lấp đầy}Tiến hành bơm ngập Entry Plug.{\i0} {-IPM}
 Dialogue: 0,0:15:04.63,0:15:05.59,Dialouge,,0,0,0,,Cái gì thế này?
-Dialogue: 0,0:15:08.18,0:15:09.22,Dialouge,,0,0,0,,Không sao đâu!
-Dialogue: 0,0:15:09.22,0:15:13.56,Dialouge,,0,0,0,,Một khi chất LCL tràn vào phổi, nó sẽ trực tiếp vận chuyển Oxy vào máu.
+Dialogue: 0,0:15:08.18,0:15:09.22,Dialouge,,0,0,0,,Không sao đâu.
+Dialogue: 0,0:15:09.22,0:15:13.56,Dialouge,,0,0,0,,Một khi phổi em đầy LCL, nó sẽ trực tiếp đưa oxy vào máu.
 Dialogue: 0,0:15:13.93,0:15:15.35,Dialouge,,0,0,0,,Em sẽ quen ngay thôi.
-Dialogue: 0,0:15:17.10,0:15:18.77,Dialouge,,0,0,0,,{\i1}Hoàn tất kết nối với nguồn diện chính.{\i0}
+Dialogue: 0,0:15:17.10,0:15:18.77,Dialouge,,0,0,0,,{\i1}Hoàn tất kết nối với nguồn điện chính.{\i0}
 Dialogue: 0,0:15:18.77,0:15:19.44,Dialouge,,0,0,0,,{\i1}Rõ.{\i0}
-Dialogue: 0,0:15:19.44,0:15:21.44,Dialouge,,0,0,0,,{\i1}Bắt đầu gian đoạn kết nối thứ 2.{\i0}
+Dialogue: 0,0:15:19.44,0:15:21.44,Dialouge,,0,0,0,,{\i1}Bắt đầu kết nối thứ hai.{\i0}
 Dialogue: 0,0:15:21.44,0:15:22.69,Dialouge,,0,0,0,,{\i1}Bắt đầu tải giao diện.{\i0}
-Dialogue: 0,0:15:25.07,0:15:27.49,Dialouge,,0,0,0,,{\i1}Kết nối thần kinh A-10 ổn định.{\i0}
-Dialogue: 0,0:15:27.49,0:15:30.08,Dialouge,,0,0,0,,{\i1}Mức độ Ion hóa LCL bình thường.{\i0}
-Dialogue: 0,0:15:30.08,0:15:33.25,Dialouge,,0,0,0,,{\i1}Đặt tiếng Nhật làm ngôn nghữ giao tiếp cơ bản.{\i0}
-Dialogue: 0,0:15:33.62,0:15:36.12,Dialouge,,0,0,0,,{\i1}Không có vấn đề gì trong lần kết nối đầu tiên.{\i0}
-Dialogue: 0,0:15:36.12,0:15:38.25,Dialouge,,0,0,0,,{\i1}Thiết lập đường dây giao tiếp.{\i0}
-Dialogue: 0,0:15:38.88,0:15:41.25,Dialouge,,0,0,0,,{\i1}Các điểm trên danh sách hiển thị đến 1405, all clear.{\i0}
+Dialogue: 0,0:15:25.07,0:15:27.49,Dialouge,,0,0,0,,{\i1}Kết nối thần kinh A-10 ổn định.{\i0}{số 10 có thể viết nhỏ lại rồi đưa lên cao i guess}
+Dialogue: 0,0:15:27.49,0:15:30.08,Dialouge,,0,0,0,,{\i1}Mức độ ion hóa LCL bình thường.{\i0}
+Dialogue: 0,0:15:30.08,0:15:33.25,Dialouge,,0,0,0,,{\i1}Đặt tiếng Nhật làm ngôn ngữ giao tiếp cơ bản.{\i0}
+Dialogue: 0,0:15:33.62,0:15:36.12,Dialouge,,0,0,0,,{\i1}Không có vấn đề gì trong lần kết nối đầu.{\i0}
+Dialogue: 0,0:15:36.12,0:15:38.25,Dialouge,,0,0,0,,{\i1}Thiết lập hệ thống liên lạc.{đường dây giao tiếp/liên lạc.}{\i0}
+Dialogue: 0,0:15:38.88,0:15:41.25,Dialouge,,0,0,0,,{\i1}{Các điểm trên danh sách hiển thị đến}Toàn danh sách đến mục 1405, all clear.{\i0}{đều ổn}
 Dialogue: 0,0:15:41.55,0:15:44.80,Dialouge,,0,0,0,,{\i1}Tỉ lệ đồng bộ thần kinh ở mức 41,3%.{\i0}
-Dialogue: 0,0:15:45.34,0:15:48.14,Dialouge,,0,0,0,,Tuyệt thật! Cho dù vẫn còn chưa mặc Plug suit.
+Dialogue: 0,0:15:45.34,0:15:48.14,Dialouge,,0,0,0,,Cao vậy mặc dù chưa mặc Plug Suit! Tuyệt thật! 
 Dialogue: 0,0:15:48.14,0:15:52.35,Dialouge,,0,0,0,,Sóng điểu hòa ở mức bình thường. Mọi thứ đều trong tầm kiểm soát.
 Dialogue: 0,0:15:52.35,0:15:53.35,Dialouge,,0,0,0,,Tất cả đã sẵn sàng!
 Dialogue: 0,0:15:54.35,0:15:55.35,Dialouge,,0,0,0,,Chuẩn bị phóng!
