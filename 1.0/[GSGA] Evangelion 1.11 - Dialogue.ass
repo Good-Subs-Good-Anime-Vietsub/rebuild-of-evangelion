@@ -15,10 +15,10 @@ Audio File: [Beatrice-Raws] Evangelion 1.0 You Are (Not) Alone [BDRip 1920x1080 
 Video File: [Beatrice-Raws] Evangelion 1.0 You Are (Not) Alone [BDRip 1920x1080 HEVC TrueHD]/[Beatrice-Raws] Evangelion 1.0 You Are (Not) Alone [BDRip 1920x1080 HEVC TrueHD].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 216
-Active Line: 219
-Video Position: 21326
+Video Zoom Percent: 0.500000
+Scroll Position: 333
+Active Line: 337
+Video Position: 32758
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -246,7 +246,7 @@ Dialogue: 0,0:14:36.36,0:14:38.52,Dialouge,,0,0,0,,Hoàn tất tắt tín hiệu
 Dialogue: 0,0:14:38.82,0:14:41.44,Dialouge,,0,0,0,,{\i1}Rõ. Tiến hành lắp Entry Plug.{\i0}
 Dialogue: 0,0:14:41.44,0:14:44.99,Dialouge,,0,0,0,,{\i1}{Mở khóa hệ thống dẫn truyền Tủy sống.}Mở khoá mạng lưới dẫn truyền dọc tuỷ. {spinal là tính từ. danh từ chính là "network"}\N Chuẩn bị kết nối.{\i0}
 Dialogue: 0,0:14:47.74,0:14:49.45,Dialouge,,0,0,0,,{\i1}Hoàn tất cắm kim thăm dò.{\i0}{đầu dò, kim dò, nào cũng đc, bỏ chữ thăm}
-Dialogue: 0,0:14:49.45,0:14:52.75,Dialouge,,0,0,0,,{\i1}Độ sâu lõi cắm duy trì ở mức 20{sao nó khác nhau thế? recheck/đã check đúng}. Mức độ suy nhược thần kinh ở mức cho phép.{\i0}
+Dialogue: 0,0:14:49.45,0:14:52.75,Dialouge,,0,0,0,,{\i1}Độ sâu lõi cắm duy trì ở mức 20{sao nó khác nhau thế? (đã check đúng)}. Mức độ suy nhược thần kinh ở mức cho phép.{\i0}
 Dialogue: 0,0:14:52.75,0:14:55.33,Dialouge,,0,0,0,,{\i1}Duy trì ở khoảng +02 và -05.{\i0}
 Dialogue: 0,0:14:55.62,0:14:57.88,Dialouge,,0,0,0,,{\i1}Hoàn tất cố định phần bên trong.{\i0} {sú nhưng đủ tốt}
 Dialogue: 0,0:14:57.88,0:14:59.96,Dialouge,,0,0,0,,{\i1}Rõ. Bắt đầu kết nối thứ nhất.{tiếp xúc đầu tiên}{\i0} {nói rõ là "contact" mà, cái "contact" kinh điển với Yui, nên hơi khác tý, sẽ check lại của Yui sau} {để là thứ nhất/thứ hai vì lát sau sẽ có nói "kết nối lần đầu"}
@@ -263,47 +263,47 @@ Dialogue: 0,0:15:25.07,0:15:27.49,Dialouge,,0,0,0,,{\i1}Kết nối thần kinh 
 Dialogue: 0,0:15:27.49,0:15:30.08,Dialouge,,0,0,0,,{\i1}Mức độ ion hóa LCL bình thường.{\i0}
 Dialogue: 0,0:15:30.08,0:15:33.25,Dialouge,,0,0,0,,{\i1}Đặt tiếng Nhật làm ngôn ngữ giao tiếp cơ bản.{\i0}
 Dialogue: 0,0:15:33.62,0:15:36.12,Dialouge,,0,0,0,,{\i1}Không có vấn đề gì trong lần kết nối đầu.{\i0}
-Dialogue: 0,0:15:36.12,0:15:38.25,Dialouge,,0,0,0,,{\i1}Thiết lập hệ thống liên lạc.{đường dây giao tiếp/liên lạc.}{\i0}
+Dialogue: 0,0:15:36.12,0:15:38.25,Dialouge,,0,0,0,,{\i1}Thiết lập đường dây liên lạc.{\i0}
 Dialogue: 0,0:15:38.88,0:15:41.25,Dialouge,,0,0,0,,{\i1}{Các điểm trên danh sách hiển thị đến}Toàn danh sách đến mục 1405, all clear.{\i0}{đều ổn}
-Dialogue: 0,0:15:41.55,0:15:44.80,Dialouge,,0,0,0,,{\i1}Tỉ lệ đồng bộ thần kinh ở mức 41,3%.{\i0}
-Dialogue: 0,0:15:45.34,0:15:48.14,Dialouge,,0,0,0,,Cao vậy mặc dù chưa mặc Plug Suit! Tuyệt thật! 
-Dialogue: 0,0:15:48.14,0:15:52.35,Dialouge,,0,0,0,,Sóng điểu hòa ở mức bình thường. Mọi thứ đều trong tầm kiểm soát.
+Dialogue: 0,0:15:41.55,0:15:44.80,Dialouge,,0,0,0,,{\i1}Tỉ lệ đồng bộ thần kinh ở mức 41.3%.{\i0}
+Dialogue: 0,0:15:45.34,0:15:48.14,Dialouge,,0,0,0,,Cao vậy mặc dù chưa mặc Plug Suit! Tuyệt thật!
+Dialogue: 0,0:15:48.14,0:15:52.35,Dialouge,,0,0,0,,Sóng điều hòa ở mức bình thường. Không có dấu hiệu bộc phát. {bousou (berserk) arimasen. không nhờ nghe kĩ với trợ giúp thì chắc quên thật}{Mọi thứ đều trong tầm kiểm soát.}
 Dialogue: 0,0:15:52.35,0:15:53.35,Dialouge,,0,0,0,,Tất cả đã sẵn sàng!
 Dialogue: 0,0:15:54.35,0:15:55.35,Dialouge,,0,0,0,,Chuẩn bị phóng!
 Dialogue: 0,0:15:55.81,0:15:56.94,Dialouge,,0,0,0,,{\i1}Chuẩn bị phóng!{\i0}
-Dialogue: 0,0:15:58.02,0:15:59.69,Dialouge,,0,0,0,,{\i1}Mở chốt khóa thứ nhất.{\i0}
+Dialogue: 0,0:15:58.02,0:15:59.69,Dialouge,,0,0,0,,{\i1}Mở chốt khóa thứ nhất!{\i0}
 Dialogue: 0,0:16:01.44,0:16:02.65,Dialouge,,0,0,0,,{\i1}Xác nhận mở khóa.{\i0}
-Dialogue: 0,0:16:02.65,0:16:04.90,Dialouge,,0,0,0,,{\i1}Cầu trước bắt đầu di chuyển.{\i0}
-Dialogue: 0,0:16:06.57,0:16:08.11,Dialouge,,0,0,0,,{\i1}Mở chốt khóa thứ hai.{\i0}
-Dialogue: 0,0:16:10.74,0:16:12.87,Dialouge,,0,0,0,,{\i1}Loại bỏ lớp hạn chế thứ nhất.{\i0}
-Dialogue: 0,0:16:12.87,0:16:15.41,Dialouge,,0,0,0,,{\i1}Đang loại bỏ lớp hạn chế thứ hai đồng thời.{\i0}
-Dialogue: 0,0:16:19.79,0:16:22.63,Dialouge,,0,0,0,,{\i1}Đang gỡ bỏ thiết bị an toàn từ số 1 đến số 15.{\i0}
+Dialogue: 0,0:16:02.65,0:16:04.90,Dialouge,,0,0,0,,{\i1}Cầu dây rốn bắt đầu di chuyển.{\i0}{bắt đầu dời "umbilical (vùng rốn hoặc liên quan tới rốn) bridge" cũng đc. note: cái này IPM dịch là "di chuyển cầu nối trung tâm". chắc do rốn nghe kì quá à?}
+Dialogue: 0,0:16:06.57,0:16:08.11,Dialouge,,0,0,0,,{\i1}Mở chốt khóa thứ hai!{\i0}
+Dialogue: 0,0:16:10.74,0:16:12.87,Dialouge,,0,0,0,,{\i1}Loại bỏ lớp kiềm chế thứ nhất.{\i0}
+Dialogue: 0,0:16:12.87,0:16:15.41,Dialouge,,0,0,0,,{\i1}Đồng thời loại bỏ lớp kiềm chế thứ hai.{\i0}
+Dialogue: 0,0:16:19.79,0:16:22.63,Dialouge,,0,0,0,,{\i1}Đang gỡ bỏ trang bị bảo hộ{thiết bị an toàn} từ số 1 đến số 15.{\i0}
 Dialogue: 0,0:16:22.63,0:16:24.05,Dialouge,,0,0,0,,{\i1}Xác nhận gỡ bỏ.{\i0}
 Dialogue: 0,0:16:24.25,0:16:26.63,Dialouge,,0,0,0,,{\i1}Unit-01 hiện tại đã được thả tự do.{\i0}
 Dialogue: 0,0:16:26.63,0:16:28.47,Dialouge,,0,0,0,,{\i1}Nguồn điện bên trong đã được nạp đầy.{\i0}
 Dialogue: 0,0:16:28.47,0:16:30.39,Dialouge,,0,0,0,,{\i1}Không có vấn đề với nguồn điện bên ngoài.{\i0}
-Dialogue: 0,0:16:30.76,0:16:33.76,Dialouge,,0,0,0,,Rõ. Di chuyển Eva Unit-01 đến bệ phóng.
+Dialogue: 0,0:16:30.76,0:16:33.76,Dialouge,,0,0,0,,Rõ. Di chuyển Unit-01 đến bệ phóng.
 Dialogue: 0,0:16:33.97,0:16:36.64,Dialouge,,0,0,0,,{\i1}Vị trí các đường ray tuyến tính không có vấn đề.{\i0}
 Dialogue: 0,0:16:36.64,0:16:39.02,Dialouge,,0,0,0,,{\i1}Hệ thống cảm ứng điện từ hoạt động bình thường.{\i0}
 Dialogue: 0,0:16:39.31,0:16:42.77,Dialouge,,0,0,0,,{\i1}Hiện tại Unit-01 đang di chuyển đến K-52.{\i0}
 Dialogue: 0,0:16:42.90,0:16:45.36,Dialouge,,0,0,0,,{\i1}Quá trình phóng đang diễn ra theo kế hoạch.{\i0}
 Dialogue: 0,0:16:45.57,0:16:48.70,Dialouge,,0,0,0,,{\i1}Eva đã đến khu phóng.{\i0} {tlc}
 Dialogue: 0,0:16:54.41,0:16:56.33,Dialouge,,0,0,0,,Đường phóng trống! All green!
-Dialogue: 0,0:16:56.62,0:16:58.83,Dialouge,,0,0,0,,Hoàn tất quá trình chuẩn bị.
+Dialogue: 0,0:16:56.62,0:16:58.83,Dialouge,,0,0,0,,Hoàn tất chuẩn bị phóng.
 Dialogue: 0,0:16:58.83,0:16:59.50,Dialouge,,0,0,0,,Đã rõ.
-Dialogue: 0,0:17:00.58,0:17:02.00,Dialouge,,0,0,0,,Tôi được quyền ra lệnh chứ?
-Dialogue: 0,0:17:02.00,0:17:03.21,Dialouge,,0,0,0,,Tất nhiên!
-Dialogue: 0,0:17:03.34,0:17:06.55,Dialouge,,0,0,0,,Tương lai của chúng ta phụ thuộc vào việc tiêu diệt Angels.
-Dialogue: 0,0:17:07.21,0:17:10.43,Dialouge,,0,0,0,,Ikari, ông có chắc về việc này chứ?
+Dialogue: 0,0:17:00.58,0:17:02.00,Dialouge,,0,0,0,,Không có vấn đề gì chứ? {-ipm}
+Dialogue: 0,0:17:02.00,0:17:03.21,Dialouge,,0,0,0,,Tất nhiên.
+Dialogue: 0,0:17:03.34,0:17:06.55,Dialouge,,0,0,0,,Tương lai của chúng ta phụ thuộc vào việc tiêu diệt Angel.
+Dialogue: 0,0:17:07.21,0:17:10.43,Dialouge,,0,0,0,,Ikari, anh nghĩ kĩ chưa đấy{anh có chắc về việc này chứ}?
 Dialogue: 0,0:17:11.68,0:17:12.55,Dialouge,,0,0,0,,PHÓNG!
 Dialogue: 0,0:17:36.62,0:17:38.20,Dialouge,,0,0,0,,{\i1}Em ổn không, Shinji-kun?{\i0}
-Dialogue: 0,0:17:38.41,0:17:39.25,Dialouge,,0,0,0,,V-Vâng!
-Dialogue: 0,0:17:39.58,0:17:41.37,Dialouge,,0,0,0,,Gõ bỏ thiết bị an toàn cuối cùng!
-Dialogue: 0,0:17:42.54,0:17:45.25,Dialouge,,0,0,0,,Evangelion Unit 01, lift off!
+Dialogue: 0,0:17:38.41,0:17:39.25,Dialouge,,0,0,0,,V-Vâng.
+Dialogue: 0,0:17:39.58,0:17:41.37,Dialouge,,0,0,0,,Gõ bỏ trang bị bảo hộ{thiết bị an toàn} cuối cùng!
+Dialogue: 0,0:17:42.54,0:17:45.25,Dialouge,,0,0,0,,Evangelion Unit-01, lift off!
 Dialogue: 0,0:17:48.46,0:17:49.13,Dialouge,,0,0,0,,Shinji-kun...
-Dialogue: 0,0:17:49.76,0:17:52.30,Dialouge,,0,0,0,,{\i1}Bây giờ em hãy tập trung vào việc bước đi trước đã.{\i0}
+Dialogue: 0,0:17:49.76,0:17:52.30,Dialouge,,0,0,0,,{\i1}bây giờ em hãy tập trung vào việc bước đi trước đã.{\i0}
 Dialogue: 0,0:17:52.76,0:17:53.89,Dialouge,,0,0,0,,{\i1}Bước đi...{\i0}
-Dialogue: 0,0:18:01.94,0:18:02.77,Dialouge,,0,0,0,,Nó di chuyển rồi!
+Dialogue: 0,0:18:01.94,0:18:02.77,Dialouge,,0,0,0,,Đi được rồi!{Nó di chuyển rồi!}
 Dialogue: 0,0:18:06.11,0:18:06.98,Dialouge,,0,0,0,,Bước đi...
 Dialogue: 0,0:18:17.33,0:18:19.12,Dialouge,,0,0,0,,{\i1}Shinji-kun, cố lên em!{\i0}
 Dialogue: 0,0:18:19.12,0:18:19.87,Dialouge,,0,0,0,,{\i1}Mau nhanh chóng... {\i0}
@@ -311,50 +311,50 @@ Dialogue: 0,0:18:19.87,0:18:21.75,Dialouge,,0,0,0,,{\i1}Mau nhanh chóng đứng
 Dialogue: 0,0:18:33.13,0:18:34.68,Dialouge,,0,0,0,,{\i1}Bình tĩnh lại Shinji-kun!{\i0}
 Dialogue: 0,0:18:34.68,0:18:36.72,Dialouge,,0,0,0,,{\i1}Cánh tay của em không thực sự bị nắm lấy đâu!{\i0}
 Dialogue: 0,0:18:39.60,0:18:40.89,Dialouge,,0,0,0,,Hệ thống phòng thủ của Eva thế nào?
-Dialogue: 0,0:18:40.89,0:18:42.35,Dialouge,,0,0,0,,Không có tín hiệu phản hồi!
+Dialogue: 0,0:18:40.89,0:18:42.35,Dialouge,,0,0,0,,Không có tín hiệu phản hồi! 
 Dialogue: 0,0:18:42.35,0:18:43.44,Dialouge,,0,0,0,,Field không được triển khai!
 Dialogue: 0,0:18:43.44,0:18:44.14,Dialouge,,0,0,0,,Không được sao?
-Dialogue: 0,0:18:48.15,0:18:49.36,Dialouge,,0,0,0,,{\i1}Cánh tay trái bị tổn hại!{\i0}
+Dialogue: 0,0:18:48.15,0:18:49.36,Dialouge,,0,0,0,,{\i1}Tay trái bị tổn hại!{\i0}
 Dialogue: 0,0:18:48.98,0:18:49.86,Dialouge,,0,0,0,,{\i1}Mạch bị ngắt!{\i0}
 Dialogue: 0,0:18:52.69,0:18:53.74,Dialouge,,0,0,0,,Mau né đi Shinji-kun!!
-Dialogue: 0,0:18:59.95,0:19:01.58,Dialouge,,0,0,0,,Vùng trước hộp sọ đã bị nứt!
-Dialogue: 0,0:19:01.58,0:19:03.08,Dialouge,,0,0,0,,Nó không còn chịu đựng được nữa!
+Dialogue: 0,0:18:59.95,0:19:01.58,Dialouge,,0,0,0,,Vùng sọ đằng trước xuất hiện vết nứt!{-ipm}{Vùng trước hộp sọ đã bị nứt!}
+Dialogue: 0,0:19:01.58,0:19:03.08,Dialouge,,0,0,0,,Lớp giáp không chịu được nữa đâu{Nó không còn chịu đựng được nữa}!
 Dialogue: 0,0:19:14.05,0:19:15.68,Dialouge,,0,0,0,,Vùng sọ bị tổn thương! Chưa rõ thiệt hại!
-Dialogue: 0,0:19:15.84,0:19:17.39,Dialouge,,0,0,0,,{\i1}Quá trình duy trì hoạt động phát sinh vấn đề!{\i0}
+Dialogue: 0,0:19:15.84,0:19:17.39,Dialouge,,0,0,0,,{\i1}{Quá trình duy trì}Chu trình hoạt động phát sinh vấn đề!{\i0}
 Dialogue: 0,0:19:17.59,0:19:18.35,Dialouge,,0,0,0,,Tình hình sao rồi?
-Dialogue: 0,0:19:18.60,0:19:21.01,Dialouge,,0,0,0,,Xung nhịp của đồ thị đồng bộ dang đảo chiều!
-Dialogue: 0,0:19:21.31,0:19:22.93,Dialouge,,0,0,0,,Mau ngắt mạch! Chặn đường kết nối!
+Dialogue: 0,0:19:18.60,0:19:21.01,Dialouge,,0,0,0,,Đồ thị đồng bộ đảo chiều{/ngược}! Xung điện đang chạy ngược!{Xung nhịp của đồ thị đồng bộ đang đảo chiều!}
+Dialogue: 0,0:19:21.31,0:19:22.93,Dialouge,,0,0,0,,Ngắt mạch dẫn ngay! Không cho nó chạy! {-ipm}{Mau ngắt mạch! Chặn đường kết nối!}
 Dialogue: 0,0:19:22.93,0:19:23.60,Dialouge,,0,0,0,,Không thể được!
-Dialogue: 0,0:19:23.73,0:19:25.73,Dialouge,,0,0,0,,Tín hiệu bị từ chối, chúng ta không thể đóng mạch!
+Dialogue: 0,0:19:23.73,0:19:25.73,Dialouge,,0,0,0,,Tín hiệu bị từ chối, {chúng ta }không thể đóng mạch!
 Dialogue: 0,0:19:25.73,0:19:26.60,Dialouge,,0,0,0,,Shinji-kun sao rồi?!
-Dialogue: 0,0:19:26.60,0:19:28.61,Dialouge,,0,0,0,,Không có phản ứng trên Monitor! Chưa thể xác định tình trạng!
-Dialogue: 0,0:19:28.73,0:19:30.48,Dialouge,,0,0,0,,Unit-01 đã hoàn toàn bất động!
+Dialogue: 0,0:19:26.60,0:19:28.61,Dialouge,,0,0,0,,Hệ thống theo dõi không phản hồi! Sống chết không rõ!{Không có phản ứng trên Monitor! Chưa thể xác định tình trạng!}
+Dialogue: 0,0:19:28.73,0:19:30.48,Dialouge,,0,0,0,,Unit-01 đã hoàn toàn yên lặng{bất động}.
 Dialogue: 0,0:19:30.61,0:19:31.32,Dialouge,,0,0,0,,Misato!
-Dialogue: 0,0:19:32.15,0:19:33.61,Dialouge,,0,0,0,,Thế đấy!
-Dialogue: 0,0:19:33.61,0:19:36.20,Dialouge,,0,0,0,,Hủy bỏ chiến dịch! Ưu tiên giải cứu phi công!
+Dialogue: 0,0:19:32.15,0:19:33.61,Dialouge,,0,0,0,,Thế đấy!{hay "Thôi đủ rồi" cũng đc}
+Dialogue: 0,0:19:33.61,0:19:36.20,Dialouge,,0,0,0,,Tạm dừng tác chiến{-ipm}{Hủy bỏ chiến dịch}! Ưu tiên bảo vệ{giải cứu} phi công!
 Dialogue: 0,0:19:36.20,0:19:37.70,Dialouge,,0,0,0,,Cưỡng chế tháo Plug!
-Dialogue: 0,0:19:37.78,0:19:39.99,Dialouge,,0,0,0,,Không thể được! Hoàn toàn không có phản hồi!
+Dialogue: 0,0:19:37.78,0:19:39.99,Dialouge,,0,0,0,,Không thể được! Ta đang mất hoàn toàn quyền điều khiển!{Hoàn toàn không có phản hồi!}
 Dialogue: 0,0:19:40.12,0:19:41.33,Dialouge,,0,0,0,,Cái gì cơ?!
 Dialogue: 0,0:19:48.88,0:19:50.04,Dialouge,,0,0,0,,{\i1}Eva tái khởi động!{\i0}
 Dialogue: 0,0:19:50.04,0:19:50.92,Dialouge,,0,0,0,,Sao có thể...
 Dialogue: 0,0:19:50.92,0:19:52.75,Dialouge,,0,0,0,,Làm sao nó có thể cử động được chứ!
 Dialogue: 0,0:19:53.09,0:19:53.96,Dialouge,,0,0,0,,Không lẽ là...
 Dialogue: 0,0:19:54.34,0:19:55.30,Dialouge,,0,0,0,,Bạo phát?!
-Dialogue: 0,0:20:15.74,0:20:16.70,Dialouge,,0,0,0,,Thắng rồi đấy!
-Dialogue: 0,0:20:22.78,0:20:23.83,Dialouge,,0,0,0,,AT-Field?
-Dialogue: 0,0:20:24.62,0:20:26.75,Dialouge,,0,0,0,,Không được đâu! Trừ khi cái AT-Field đó bị phá vỡ...
+Dialogue: 0,0:20:15.74,0:20:16.70,Dialouge,,0,0,0,,Thắng rồi đấy.
+Dialogue: 0,0:20:22.78,0:20:23.83,Dialouge,,0,0,0,,A.T. Field?
+Dialogue: 0,0:20:24.62,0:20:26.75,Dialouge,,0,0,0,,Không được đâu! Trừ khi cái A.T. Field đó bị phá vỡ...{chừng nào còn cái A.T. Field...}
 Dialogue: 0,0:20:26.75,0:20:28.33,Dialouge,,0,0,0,,...thì không thể làm gì được nó cả!
 Dialogue: 0,0:20:35.21,0:20:36.59,Dialouge,,0,0,0,,Tay trái đã hồi phục!
 Dialogue: 0,0:20:36.59,0:20:37.13,Dialouge,,0,0,0,,Tuyệt thật!
-Dialogue: 0,0:20:40.93,0:20:43.10,Dialouge,,0,0,0,,Unit-01 cũng đang triển khai AT-Field!
-Dialogue: 0,0:20:43.10,0:20:45.31,Dialouge,,0,0,0,,Nó đang dung hợp với AT-Field của Angel!
-Dialogue: 0,0:20:45.31,0:20:47.43,Dialouge,,0,0,0,,Không, là nó đang trung hòa lớp giáp đó!
-Dialogue: 0,0:20:52.15,0:20:54.82,Dialouge,,0,0,0,,Cái AT-Field mà nó phá dễ như ăn bánh vậy...
-Dialogue: 0,0:21:51.16,0:21:52.21,Dialouge,,0,0,0,,Eva sao rồi?
+Dialogue: 0,0:20:40.93,0:20:43.10,Dialouge,,0,0,0,,Unit-01 cũng đang triển khai A.T. Field!
+Dialogue: 0,0:20:43.10,0:20:45.31,Dialouge,,0,0,0,,Nó đang trung hoà không gian pha {位相空間 - phase space, khái niệm vật lý, hiểu sơ sơ nhma vẫn chết liền}của Angel.{Nó đang dung hợp với A.T. Field của Angel!}{note: ipm ghi là không gian đa chiều, phase space quả thật là "multidimensional space", chứa tất cả các trạng thái của một hệ}
+Dialogue: 0,0:20:45.31,0:20:47.43,Dialouge,,0,0,0,,Không. Nó đang ăn mòn{trung hòa lớp giáp} A.T. Field đó.
+Dialogue: 0,0:20:52.15,0:20:54.82,Dialouge,,0,0,0,,Cái A.T. Field mà nó phá dễ như ăn bánh vậy...
+Dialogue: 0,0:21:51.16,0:21:52.08,Dialouge,,0,0,0,,Eva sao rồi?
 Dialogue: 0,0:22:05.30,0:22:06.35,Dialouge,,0,0,0,,Đó là hình dạng thực sự...
 Dialogue: 0,0:22:07.01,0:22:08.27,Dialouge,,0,0,0,,...của Eva sao?
 Dialogue: 0,0:22:15.98,0:22:18.23,Dialouge,,0,0,0,,Anh đã quyết định cái tên chưa?
-Dialogue: 0,0:22:18.23,0:22:22.32,Dialouge,,0,0,0,,Nếu là con trai thì là Shinji, con gái thì là Rei.
+Dialogue: 0,0:22:18.23,0:22:22.32,Dialouge,,0,0,0,,Nếu con trai thì là Shinji. Nếu con gái thì là Rei.
 Dialogue: 0,0:22:22.32,0:22:23.99,Dialouge,,0,0,0,,Shinji...
 Dialogue: 0,0:22:23.99,0:22:25.49,Dialouge,,0,0,0,,Rei...
 Dialogue: 0,0:22:27.37,0:22:28.70,Dialouge,,0,0,0,,Shinji...
@@ -363,8 +363,8 @@ Dialogue: 0,0:22:33.29,0:22:34.79,Dialouge,,0,0,0,,Shinji...
 Dialogue: 0,0:22:35.63,0:22:36.63,Dialouge,,0,0,0,,Rei...
 Dialogue: 0,0:22:37.46,0:22:40.51,Dialouge,,0,0,0,,Rei... {\alpha&HFF&}{\t(1700,1701,\alpha&H00&)}Ikari...?
 Dialogue: 0,0:22:40.88,0:22:42.09,Dialouge,,0,0,0,,Rei...
-Dialogue: 0,0:22:42.59,0:22:44.05,Dialouge,,0,0,0,,No...
-Dialogue: 0,0:22:44.63,0:22:47.05,Dialouge,,0,0,0,,Ayanami... {\alpha&HFF&}{\t(1700,1701,\alpha&H00&)}Rei!
+Dialogue: 0,0:22:42.59,0:22:44.05,Dialouge,,0,0,0,,Không...
+Dialogue: 0,0:22:44.63,0:22:47.05,Dialouge,,0,0,0,,Ayanami... {\alpha&HFF&}{\t(1652,1653,\alpha&H00&)}Rei!
 Dialogue: 0,0:23:08.78,0:23:10.29,Dialouge,,0,0,0,,Trần nhà lạ quá...
 Dialogue: 0,0:23:17.21,0:23:20.67,Dialouge,,0,0,0,,Angel thứ IV tấn công chúng ta và đã bị tiêu diệt...
 Dialogue: 0,0:23:21.17,0:23:24.01,Dialouge,,0,0,0,,Việc tiếp nhận Đứa trẻ Thứ III...
@@ -1268,7 +1268,7 @@ Dialogue: 0,0:03:29.52,0:03:31.98,Dialouge - Eng,,0,0,0,,How the hell?! We made 
 Dialogue: 0,0:03:32.60,0:03:34.73,Dialouge - Eng,,0,0,0,,The tank battalion was completely destroyed.
 Dialogue: 0,0:03:34.73,0:03:37.61,Dialouge - Eng,,0,0,0,,Missiles and artillery are useless...
 Dialogue: 0,0:03:37.86,0:03:41.07,Dialouge - Eng,,0,0,0,,It's pointless! This type of firepower's not going to get us anywhere!
-Dialogue: 0,0:03:41.40,0:03:43.24,Dialouge - Eng,,0,0,0,,So, it has an AT Field after all?
+Dialogue: 0,0:03:41.40,0:03:43.24,Dialouge - Eng,,0,0,0,,So, it has an A.T. Field after all?
 Dialogue: 0,0:03:43.24,0:03:43.82,Dialouge - Eng,,0,0,0,,Yes...
 Dialogue: 0,0:03:43.82,0:03:46.66,Dialouge - Eng,,0,0,0,,Conventional weapons are useless against an Angel.
 Dialogue: 0,0:03:50.29,0:03:53.21,Dialouge - Eng,,0,0,0,,Understood. We'll deploy it according to plan.
@@ -1389,7 +1389,7 @@ Dialogue: 0,0:10:09.63,0:10:13.01,Dialouge - Eng,,0,0,0,,{\i1}I repeat, all unit
 Dialogue: 0,0:10:13.01,0:10:15.51,Dialouge - Eng,,0,0,0,,{\i1}Ground forces, prepare for combat!{\i0}
 Dialogue: 0,0:10:18.69,0:10:22.30,Dialouge - Eng,,0,0,0,,Ikari Shinij-kun, there's something I want to show you.
 Dialogue: 0,0:10:25.86,0:10:32.06,Dialouge - Eng,,0,0,0,,The ultimate man-made multipurpose fighting machine. The artificial human, Evangelion.
-Dialogue: 0,0:10:32.06,0:10:32.94,Dialouge - Eng,,0,0,0,,That is Unit 01.
+Dialogue: 0,0:10:32.06,0:10:32.94,Dialouge - Eng,,0,0,0,,That is Unit-01.
 Dialogue: 0,0:10:33.47,0:10:36.20,Dialouge - Eng,,0,0,0,,Mankind's very last trump card.
 Dialogue: 0,0:10:36.20,0:10:38.28,Dialouge - Eng,,0,0,0,,This is my father's work?
 Dialogue: 0,0:10:38.28,0:10:39.49,Dialouge - Eng,,0,0,0,,Correct.
@@ -1398,7 +1398,7 @@ Dialogue: 0,0:10:43.96,0:10:45.22,Dialouge - Eng,,0,0,0,,Father...
 Dialogue: 0,0:10:49.28,0:10:50.08,Dialouge - Eng,,0,0,0,,Prepare to sortie.
 Dialogue: 0,0:10:50.43,0:10:51.89,Dialouge - Eng,,0,0,0,,Sortie?!
 Dialogue: 0,0:10:51.89,0:10:54.33,Dialouge - Eng,,0,0,0,,But Unit 00 is still frozen, isn't it?
-Dialogue: 0,0:10:55.70,0:10:57.96,Dialouge - Eng,,0,0,0,,Unless... You intend to use Unit 01?
+Dialogue: 0,0:10:55.70,0:10:57.96,Dialouge - Eng,,0,0,0,,Unless... You intend to use Unit-01?
 Dialogue: 0,0:10:58.31,0:10:59.67,Dialouge - Eng,,0,0,0,,There is no other choice.
 Dialogue: 0,0:11:01.51,0:11:02.84,Dialouge - Eng,,0,0,0,,Ikari Shinji-kun...?
 Dialogue: 0,0:11:02.84,0:11:03.30,Dialouge - Eng,,0,0,0,,Y-Yes?
@@ -1440,7 +1440,7 @@ Dialogue: 0,0:12:57.45,0:12:58.44,Dialouge - Eng,,0,0,0,,Rei.
 Dialogue: 0,0:12:58.44,0:12:59.44,Dialouge - Eng,,0,0,0,,Yes.
 Dialogue: 0,0:12:59.44,0:13:02.41,Dialouge - Eng,,0,0,0,,The backup is useless. We need you once more.
 Dialogue: 0,0:13:02.41,0:13:03.22,Dialouge - Eng,,0,0,0,,Yes.
-Dialogue: 0,0:13:05.36,0:13:09.30,Dialouge - Eng,,0,0,0,,Switch Unit 01's core unit to the L-00 type and reactivate it!
+Dialogue: 0,0:13:05.36,0:13:09.30,Dialouge - Eng,,0,0,0,,Switch Unit-01's core unit to the L-00 type and reactivate it!
 Dialogue: 0,0:13:09.70,0:13:13.36,Dialouge - Eng,,0,0,0,,{\i1}Roger. Suspending current tasks. Reactivating.{\i0}
 Dialogue: 0,0:13:13.36,0:13:14.71,Dialouge - Eng,,0,0,0,,{\i1}Entering reactivation command.{\i0}
 Dialogue: 0,0:13:14.71,0:13:18.90,Dialouge - Eng,,0,0,0,,{\i1}I knew it. I was never needed...{\i0}
@@ -1492,13 +1492,13 @@ Dialogue: 0,0:16:10.76,0:16:12.87,Dialouge - Eng,,0,0,0,,{\i1}Removing primary r
 Dialogue: 0,0:16:12.87,0:16:15.41,Dialouge - Eng,,0,0,0,,{\i1}Proceeding to remove secondary restraints.{\i0}
 Dialogue: 0,0:16:19.78,0:16:22.62,Dialouge - Eng,,0,0,0,,{\i1}Disengaging safety systems 01 through 15.{\i0}
 Dialogue: 0,0:16:22.62,0:16:24.04,Dialouge - Eng,,0,0,0,,{\i1}Disengagement confirmed.{\i0}
-Dialogue: 0,0:16:24.24,0:16:26.63,Dialouge - Eng,,0,0,0,,{\i1}Unit 01 is now free.{\i0}
+Dialogue: 0,0:16:24.24,0:16:26.63,Dialouge - Eng,,0,0,0,,{\i1}Unit-01 is now free.{\i0}
 Dialogue: 0,0:16:26.63,0:16:28.47,Dialouge - Eng,,0,0,0,,{\i1}Internal power supply, fully charged.{\i0}
 Dialogue: 0,0:16:28.47,0:16:30.38,Dialouge - Eng,,0,0,0,,{\i1}No problems with the external power socket.{\i0}
-Dialogue: 0,0:16:30.78,0:16:33.76,Dialouge - Eng,,0,0,0,,Understood. Move Unit 01 to the launch pad.
+Dialogue: 0,0:16:30.78,0:16:33.76,Dialouge - Eng,,0,0,0,,Understood. Move Unit-01 to the launch pad.
 Dialogue: 0,0:16:33.99,0:16:36.63,Dialouge - Eng,,0,0,0,,{\i1}No problems with the positioning of any of the linear rail tracks.{\i0}
 Dialogue: 0,0:16:36.63,0:16:39.01,Dialouge - Eng,,0,0,0,,{\i1}Electromagnetic induction system, working normally.{\i0}
-Dialogue: 0,0:16:39.33,0:16:42.77,Dialouge - Eng,,0,0,0,,{\i1}Unit 01 is now moving to K-52.{\i0}
+Dialogue: 0,0:16:39.33,0:16:42.77,Dialouge - Eng,,0,0,0,,{\i1}Unit-01 is now moving to K-52.{\i0}
 Dialogue: 0,0:16:42.90,0:16:45.35,Dialouge - Eng,,0,0,0,,{\i1}Launch sequence is proceeding normally.{\i0}
 Dialogue: 0,0:16:45.56,0:16:48.69,Dialouge - Eng,,0,0,0,,{\i1}Eva has arrived at the launch terminal hub.{\i0} {tlc}
 Dialogue: 0,0:16:54.41,0:16:56.32,Dialouge - Eng,,0,0,0,,Launch tube clear. All green!
@@ -1512,7 +1512,7 @@ Dialogue: 0,0:17:11.67,0:17:12.55,Dialouge - Eng,,0,0,0,,LAUNCH!
 Dialogue: 0,0:17:36.61,0:17:38.19,Dialouge - Eng,,0,0,0,,{\i1}Are you alright, Shinji-kun?{\i0}
 Dialogue: 0,0:17:38.43,0:17:39.24,Dialouge - Eng,,0,0,0,,Y-Yes.
 Dialogue: 0,0:17:39.56,0:17:41.37,Dialouge - Eng,,0,0,0,,Release the final safety lock!
-Dialogue: 0,0:17:42.54,0:17:45.25,Dialouge - Eng,,0,0,0,,Evangelion Unit 01, lift off!
+Dialogue: 0,0:17:42.54,0:17:45.25,Dialouge - Eng,,0,0,0,,Evangelion Unit-01, lift off!
 Dialogue: 0,0:17:48.45,0:17:49.13,Dialouge - Eng,,0,0,0,,Shinji-kun...
 Dialogue: 0,0:17:49.74,0:17:52.29,Dialouge - Eng,,0,0,0,,{\i1}for now, just concentrate on walking.{\i0}
 Dialogue: 0,0:17:52.75,0:17:53.88,Dialouge - Eng,,0,0,0,,{\i1}Walk...{\i0}
@@ -1541,7 +1541,7 @@ Dialogue: 0,0:19:22.92,0:19:23.60,Dialouge - Eng,,0,0,0,,We can't!
 Dialogue: 0,0:19:23.72,0:19:25.72,Dialouge - Eng,,0,0,0,,The signal's being refused, we can't get through!
 Dialogue: 0,0:19:25.72,0:19:26.60,Dialouge - Eng,,0,0,0,,Shinji-kun's status?!
 Dialogue: 0,0:19:26.60,0:19:28.60,Dialouge - Eng,,0,0,0,,No response from the monitoring system. Condition unknown!
-Dialogue: 0,0:19:28.73,0:19:30.48,Dialouge - Eng,,0,0,0,,Unit 01 has gone silent.
+Dialogue: 0,0:19:28.73,0:19:30.48,Dialouge - Eng,,0,0,0,,Unit-01 has gone silent.
 Dialogue: 0,0:19:30.59,0:19:31.31,Dialouge - Eng,,0,0,0,,Misato!
 Dialogue: 0,0:19:32.17,0:19:33.59,Dialouge - Eng,,0,0,0,,That's it!
 Dialogue: 0,0:19:33.59,0:19:36.18,Dialouge - Eng,,0,0,0,,Abort the operation! Pilot rescue has top priority!
@@ -1554,15 +1554,15 @@ Dialogue: 0,0:19:50.91,0:19:52.75,Dialouge - Eng,,0,0,0,,It should be knocked ou
 Dialogue: 0,0:19:53.07,0:19:53.96,Dialouge - Eng,,0,0,0,,Has it gone...
 Dialogue: 0,0:19:54.36,0:19:55.29,Dialouge - Eng,,0,0,0,,Berserk?!
 Dialogue: 0,0:20:15.73,0:20:16.69,Dialouge - Eng,,0,0,0,,We've won.
-Dialogue: 0,0:20:22.78,0:20:23.82,Dialouge - Eng,,0,0,0,,An AT-Field?
-Dialogue: 0,0:20:24.62,0:20:26.74,Dialouge - Eng,,0,0,0,,It's pointless. Unless the AT Field is breached...
+Dialogue: 0,0:20:22.78,0:20:23.82,Dialouge - Eng,,0,0,0,,An A.T. Field?
+Dialogue: 0,0:20:24.62,0:20:26.74,Dialouge - Eng,,0,0,0,,It's pointless. Unless the A.T. Field is breached...
 Dialogue: 0,0:20:26.74,0:20:28.33,Dialouge - Eng,,0,0,0,,...you can't do anything to an Angel.
 Dialogue: 0,0:20:35.21,0:20:36.57,Dialouge - Eng,,0,0,0,,Left arm restored!
 Dialogue: 0,0:20:36.57,0:20:37.13,Dialouge - Eng,,0,0,0,,Amazing!
-Dialogue: 0,0:20:40.92,0:20:43.09,Dialouge - Eng,,0,0,0,,Unit 01 has also raised an AT-Field!
+Dialogue: 0,0:20:40.92,0:20:43.09,Dialouge - Eng,,0,0,0,,Unit-01 has also raised an A.T. Field!
 Dialogue: 0,0:20:43.09,0:20:45.30,Dialouge - Eng,,0,0,0,,Angel phase space is being neutralized.
 Dialogue: 0,0:20:45.30,0:20:47.43,Dialouge - Eng,,0,0,0,,No. It's corroding it.
-Dialogue: 0,0:20:52.13,0:20:54.81,Dialouge - Eng,,0,0,0,,It broke through that AT-Field like it was nothing...
+Dialogue: 0,0:20:52.13,0:20:54.81,Dialouge - Eng,,0,0,0,,It broke through that A.T. Field like it was nothing...
 Dialogue: 0,0:21:51.18,0:21:52.08,Dialouge - Eng,,0,0,0,,What is Eva's status?
 Dialogue: 0,0:22:05.30,0:22:06.34,Dialouge - Eng,,0,0,0,,Is this Eva's...
 Dialogue: 0,0:22:07.00,0:22:08.26,Dialouge - Eng,,0,0,0,,True form?
@@ -1581,12 +1581,12 @@ Dialogue: 0,0:22:44.64,0:22:47.05,Dialouge - Eng,,0,0,0,,Ayanami... {\alpha&HFF&
 Dialogue: 0,0:23:08.78,0:23:10.28,Dialouge - Eng,,0,0,0,,An unfamiliar ceiling...
 Dialogue: 0,0:23:17.20,0:23:20.67,Dialouge - Eng,,0,0,0,,The attack of the fourth Angel, and its defeat...
 Dialogue: 0,0:23:21.19,0:23:24.01,Dialouge - Eng,,0,0,0,,Then the acquisition of the Third Child...
-Dialogue: 0,0:23:24.01,0:23:25.92,Dialouge - Eng,,0,0,0,,And the activation of Eva Unit 01...
+Dialogue: 0,0:23:24.01,0:23:25.92,Dialouge - Eng,,0,0,0,,And the activation of Eva Unit-01...
 Dialogue: 0,0:23:26.54,0:23:28.38,Dialouge - Eng,,0,0,0,,Overall the plan is progressing well.
-Dialogue: 0,0:23:28.59,0:23:32.79,Dialouge - Eng,,0,0,0,,Well, except for the colossal expense necessary to repair Unit 01.
+Dialogue: 0,0:23:28.59,0:23:32.79,Dialouge - Eng,,0,0,0,,Well, except for the colossal expense necessary to repair Unit-01.
 Dialogue: 0,0:23:32.79,0:23:35.18,Dialouge - Eng,,0,0,0,,Compared to Unit 00 in cryo-suspension,
 Dialogue: 0,0:23:35.18,0:23:36.64,Dialouge - Eng,,0,0,0,,that is hardly a problem.
-Dialogue: 0,0:23:37.27,0:23:40.10,Dialouge - Eng,,0,0,0,,Eva Unit 01's recovery operation is complete.
+Dialogue: 0,0:23:37.27,0:23:40.10,Dialouge - Eng,,0,0,0,,Eva Unit-01's recovery operation is complete.
 Dialogue: 0,0:23:40.10,0:23:42.74,Dialouge - Eng,,0,0,0,,Right now, it's being locked into Cage 6.
 Dialogue: 0,0:23:42.74,0:23:45.48,Dialouge - Eng,,0,0,0,,A full-systems check will commence at 10:00 hours.
 Dialogue: 0,0:23:45.48,0:23:47.28,Dialouge - Eng,,0,0,0,,And the recording from when it went berserk?
@@ -1595,7 +1595,7 @@ Dialogue: 0,0:23:50.65,0:23:53.42,Dialouge - Eng,,0,0,0,,And so, we have no idea
 Dialogue: 0,0:23:53.42,0:23:57.49,Dialouge - Eng,,0,0,0,,Our absolute confidence in its combat performance... may be a bit misplaced.
 Dialogue: 0,0:23:57.69,0:24:02.42,Dialouge - Eng,,0,0,0,,As long as it can fight the 5th Angel, minor bugs are tolerable.
 Dialogue: 0,0:24:02.76,0:24:03.93,Dialouge - Eng,,0,0,0,,No need for concern.
-Dialogue: 0,0:24:03.93,0:24:06.19,Dialouge - Eng,,0,0,0,,We'll continue deployment of Unit 01.
+Dialogue: 0,0:24:03.93,0:24:06.19,Dialouge - Eng,,0,0,0,,We'll continue deployment of Unit-01.
 Dialogue: 0,0:24:06.19,0:24:10.60,Dialouge - Eng,,0,0,0,,And Unit 02 and its pilot in Germany are under deployment qualification exams.
 Dialogue: 0,0:24:10.60,0:24:13.76,Dialouge - Eng,,0,0,0,,The construction of Unit 03 is also progressing as planned.
 Dialogue: 0,0:24:13.76,0:24:17.56,Dialouge - Eng,,0,0,0,,It's your responsibility to make proper use of NERV and the Evas.
@@ -1604,7 +1604,7 @@ Dialogue: 0,0:24:20.10,0:24:24.73,Dialouge - Eng,,0,0,0,,That's right. Defeating
 Dialogue: 0,0:24:24.73,0:24:26.69,Dialouge - Eng,,0,0,0,,The Human Instrumentality Project...
 Dialogue: 0,0:24:26.90,0:24:30.58,Dialouge - Eng,,0,0,0,,Its execution is our ultimate goal.
 Dialogue: 0,0:24:30.58,0:24:35.07,Dialouge - Eng,,0,0,0,,I understand. Everything will go according to SEELE's scenario.
-Dialogue: 0,0:25:00.55,0:25:04.77,Dialouge - Eng,,0,0,0,,An Angel leaves quite a mark when it's destroyed after it loses its AT Field.
+Dialogue: 0,0:25:00.55,0:25:04.77,Dialouge - Eng,,0,0,0,,An Angel leaves quite a mark when it's destroyed after it loses its A.T. Field.
 Dialogue: 0,0:25:05.16,0:25:07.26,Dialouge - Eng,,0,0,0,,The blood is like a lake from hell...
 Dialogue: 0,0:25:07.26,0:25:10.73,Dialouge - Eng,,0,0,0,,It's got the same nasty feeling as the Second Impact.
 Dialogue: 0,0:25:11.05,0:25:12.61,Dialouge - Eng,,0,0,0,,Our Eva can defeat an Angel...
@@ -1821,7 +1821,7 @@ Dialogue: 0,0:41:02.11,0:41:06.06,Dialouge - Eng,,0,0,0,,Come on... Just help me
 Dialogue: 0,0:41:06.06,0:41:10.86,Dialouge - Eng,,0,0,0,,Guess I've got no choice. You're a real slave to your passions, aren't you?
 Dialogue: 0,0:41:12.66,0:41:15.24,Dialouge - Eng,,0,0,0,,{\i1}Shinji-kun, are you ready for launch?{\i0}
 Dialogue: 0,0:41:15.63,0:41:16.68,Dialouge - Eng,,0,0,0,,Yes.
-Dialogue: 0,0:41:16.68,0:41:21.66,Dialouge - Eng,,0,0,0,,{\i1}Remember. Continuous Gatling gun fire as you neutralize its AT Field.
+Dialogue: 0,0:41:16.68,0:41:21.66,Dialouge - Eng,,0,0,0,,{\i1}Remember. Continuous Gatling gun fire as you neutralize its A.T. Field.
 Dialogue: 0,0:41:21.66,0:41:23.81,Dialouge - Eng,,0,0,0,,{\i1}Just like in practice. You'll be fine.{\i0}
 Dialogue: 0,0:41:24.15,0:41:24.71,Dialouge - Eng,,0,0,0,,Yes...
 Dialogue: 0,0:41:24.89,0:41:25.54,Dialouge - Eng,,0,0,0,,Launch!
@@ -1852,7 +1852,7 @@ Dialogue: 0,0:43:33.50,0:43:35.37,Dialouge - Eng,,0,0,0,,Shinji-kun's classmates
 Dialogue: 0,0:43:35.37,0:43:36.55,Dialouge - Eng,,0,0,0,,What are they doing there?!
 Dialogue: 0,0:43:45.08,0:43:47.19,Dialouge - Eng,,0,0,0,,Why isn't he fighting back?!
 Dialogue: 0,0:43:47.19,0:43:50.44,Dialouge - Eng,,0,0,0,,Maybe he can't move freely... because we're here!?
-Dialogue: 0,0:43:50.67,0:43:54.17,Dialouge - Eng,,0,0,0,,{\i1}Unit 01 will reach operational time limit in 3 minutes 28 seconds!{\i0}
+Dialogue: 0,0:43:50.67,0:43:54.17,Dialouge - Eng,,0,0,0,,{\i1}Unit-01 will reach operational time limit in 3 minutes 28 seconds!{\i0}
 Dialogue: 0,0:43:54.19,0:43:56.94,Dialouge - Eng,,0,0,0,,{\i1}Palm armor overheating. Damage, 58%.{\i0}
 Dialogue: 0,0:44:00.97,0:44:04.16,Dialouge - Eng,,0,0,0,,{\i1}Shinji-kun, let those two into the cockpit!{\i0}
 Dialogue: 0,0:44:04.58,0:44:07.75,Dialouge - Eng,,0,0,0,,Once they're in, get out of there! We'll start over afterwards.
@@ -1870,13 +1870,13 @@ Dialogue: 0,0:44:52.12,0:44:53.50,Dialouge - Eng,,0,0,0,,Progressive Knife equip
 Dialogue: 0,0:44:55.59,0:44:58.42,Dialouge - Eng,,0,0,0,,{\i1}Shinji-kun, listen to my order! Fall back now!{\i0}
 Dialogue: 0,0:44:58.70,0:44:59.45,Dialouge - Eng,,0,0,0,,{\i1}Shinji-kun!{\i0}
 Dialogue: 0,0:45:04.90,0:45:05.89,Dialouge - Eng,,0,0,0,,That idiot!
-Dialogue: 0,0:45:25.17,0:45:28.03,Dialouge - Eng,,0,0,0,,Unit 01 will reach operational time limit in 30 seconds.
+Dialogue: 0,0:45:25.17,0:45:28.03,Dialouge - Eng,,0,0,0,,Unit-01 will reach operational time limit in 30 seconds.
 Dialogue: 0,0:45:28.52,0:45:31.55,Dialouge - Eng,,0,0,0,,28, 27, 26...
 Dialogue: 0,0:45:31.55,0:45:35.33,Dialouge - Eng,,0,0,0,,25, 24, 23, 22...
 Dialogue: 0,0:45:38.97,0:45:42.80,Dialouge - Eng,,0,0,0,,13, 12, 11, 10...
 Dialogue: 0,0:45:42.92,0:45:47.44,Dialouge - Eng,,0,0,0,,9, 8, 7, 6, 5...
 Dialogue: 0,0:45:47.80,0:45:51.57,Dialouge - Eng,,0,0,0,,4, 3, 2, 1...
-Dialogue: 0,0:46:00.48,0:46:02.67,Dialouge - Eng,,0,0,0,,Eva Unit 01 has ceased operation.
+Dialogue: 0,0:46:00.48,0:46:02.67,Dialouge - Eng,,0,0,0,,Eva Unit-01 has ceased operation.
 Dialogue: 0,0:46:02.67,0:46:05.53,Dialouge - Eng,,0,0,0,,Target has completely disintegrated.
 Dialogue: 0,0:46:44.84,0:46:46.82,Dialouge - Eng,,0,0,0,,Why did you ignore my orders?
 Dialogue: 0,0:46:47.69,0:46:48.82,Dialouge - Eng,,0,0,0,,I'm sorry.
@@ -1982,12 +1982,12 @@ Dialogue: 0,0:55:49.99,0:55:52.59,Dialouge - Eng,,0,0,0,,Once the adjustments to
 Dialogue: 0,0:55:52.65,0:55:55.50,Dialouge - Eng,,0,0,0,,It's so we can re-deploy it soon, isn't it?
 Dialogue: 0,0:56:00.31,0:56:01.75,Dialouge - Eng,,0,0,0,,Ayanami...
 Dialogue: 0,0:56:01.75,0:56:04.29,Dialouge - Eng,,0,0,0,,Why is she always alone?
-Dialogue: 0,0:56:04.29,0:56:06.85,Dialouge - Eng,,0,0,0,,{\i1}Eva Unit 01 is beginning third coolant phase.{\i0}
+Dialogue: 0,0:56:04.29,0:56:06.85,Dialouge - Eng,,0,0,0,,{\i1}Eva Unit-01 is beginning third coolant phase.{\i0}
 Dialogue: 0,0:56:07.18,0:56:10.92,Dialouge - Eng,,0,0,0,,{\i1}Please set all systems in Cage 6 to phase three.{\i0}
 Dialogue: 0,0:56:11.35,0:56:16.78,Dialouge - Eng,,0,0,0,,{\i1}Copying the all-range data of the entry plug to Melchior. Data sent.{\i0}
 Dialogue: 0,0:56:18.57,0:56:20.52,Dialouge - Eng,,0,0,0,,{\i1}Begin third cooling phase.{\i0}
 Dialogue: 0,0:56:20.52,0:56:22.94,Dialouge - Eng,,0,0,0,,{\i1}Copying situation data from Casper to Melchior.{\i0}
-Dialogue: 0,0:56:22.94,0:56:27.79,Dialouge - Eng,,0,0,0,,{\i1}Currently, Unit 01's plug depth is at 0,8. It's within acceptable measurement range.{\i0}
+Dialogue: 0,0:56:22.94,0:56:27.79,Dialouge - Eng,,0,0,0,,{\i1}Currently, Unit-01's plug depth is at 0,8. It's within acceptable measurement range.{\i0}
 Dialogue: 0,0:56:28.86,0:56:32.70,Dialouge - Eng,,0,0,0,,{\i1}T-minus 150 minutes to Unit 00's conductive systems restart and testing.{\i0}
 Dialogue: 0,0:56:32.83,0:56:37.28,Dialouge - Eng,,0,0,0,,{\i1}Roger. Routine synchronization test, Program 508 is now complete.{\i0}
 Dialogue: 0,0:56:37.28,0:56:38.74,Dialouge - Eng,,0,0,0,,{\i1}Good work, Shinji-kun.{\i0}
@@ -2060,11 +2060,11 @@ Dialogue: 0,1:03:28.18,1:03:30.24,Dialouge - Eng,,0,0,0,,{\i1}Object analysis co
 Dialogue: 0,1:03:30.34,1:03:32.32,Dialouge - Eng,,0,0,0,,Pattern blue. Angel confirmed.
 Dialogue: 0,1:03:32.68,1:03:34.91,Dialouge - Eng,,0,0,0,,As we thought. The 6th Angel.
 Dialogue: 0,1:03:35.30,1:03:36.40,Dialouge - Eng,,0,0,0,,Yes.
-Dialogue: 0,1:03:36.98,1:03:38.83,Dialouge - Eng,,0,0,0,,Prepare Unit 01 for sortie.
-Dialogue: 0,1:03:39.40,1:03:41.96,Dialouge - Eng,,0,0,0,,{\i1}Prepare to launch Unit 01!{\i0}
+Dialogue: 0,1:03:36.98,1:03:38.83,Dialouge - Eng,,0,0,0,,Prepare Unit-01 for sortie.
+Dialogue: 0,1:03:39.40,1:03:41.96,Dialouge - Eng,,0,0,0,,{\i1}Prepare to launch Unit-01!{\i0}
 Dialogue: 0,1:03:42.10,1:03:43.86,Dialouge - Eng,,0,0,0,,{\i1}Anti-air interception weapons armed.{\i0}
 Dialogue: 0,1:03:46.48,1:03:48.80,Dialouge - Eng,,0,0,0,,The target is passing above Lake Ashinoko.
-Dialogue: 0,1:03:48.80,1:03:50.72,Dialouge - Eng,,0,0,0,,Evangelion Unit 01 is ready to launch!
+Dialogue: 0,1:03:48.80,1:03:50.72,Dialouge - Eng,,0,0,0,,Evangelion Unit-01 is ready to launch!
 Dialogue: 0,1:03:50.82,1:03:51.55,Dialouge - Eng,,0,0,0,,Launch!
 Dialogue: 0,1:04:00.84,1:04:02.90,Dialouge - Eng,,0,0,0,,High energy reaction detected inside the target!
 Dialogue: 0,1:04:02.90,1:04:03.52,Dialouge - Eng,,0,0,0,,What?!
@@ -2072,22 +2072,22 @@ Dialogue: 0,1:04:03.62,1:04:04.27,Dialouge - Eng,,0,0,0,,Don't tell me...!
 Dialogue: 0,1:04:07.40,1:04:08.11,Dialouge - Eng,,0,0,0,,Get out of there!
 Dialogue: 0,1:04:27.79,1:04:29.46,Dialouge - Eng,,0,0,0,,Lower synchronization rate to minimum!
 Dialogue: 0,1:04:29.46,1:04:30.63,Dialouge - Eng,,0,0,0,,Deploy blast shield!
-Dialogue: 0,1:04:53.01,1:04:55.70,Dialouge - Eng,,0,0,0,,Abort intercept! Begin emergency recovery of Unit 01!
+Dialogue: 0,1:04:53.01,1:04:55.70,Dialouge - Eng,,0,0,0,,Abort intercept! Begin emergency recovery of Unit-01!
 Dialogue: 0,1:04:55.70,1:04:58.29,Dialouge - Eng,,0,0,0,,We can't! The catapult has melted. It's unusable!
-Dialogue: 0,1:04:58.39,1:04:59.47,Dialouge - Eng,,0,0,0,,What about the AT-Field?
+Dialogue: 0,1:04:58.39,1:04:59.47,Dialouge - Eng,,0,0,0,,What about the A.T. Field?
 Dialogue: 0,1:04:59.47,1:05:02.96,Dialouge - Eng,,0,0,0,,Fully raised. Structural integrity is holding, but barely!
 Dialogue: 0,1:05:08.40,1:05:10.46,Dialouge - Eng,,0,0,0,,{\i1}No! No more of this!{\i0}
 Dialogue: 0,1:05:10.46,1:05:13.47,Dialouge - Eng,,0,0,0,,{\i1}Let me out! Get me out of here, father!!{\i0}
 Dialogue: 0,1:05:13.58,1:05:14.72,Dialouge - Eng,,0,0,0,,Abort the operation!
 Dialogue: 0,1:05:14.72,1:05:17.78,Dialouge - Eng,,0,0,0,,Place top priority on the pilot's safety! Force eject the plug!
 Dialogue: 0,1:05:17.78,1:05:18.81,Dialouge - Eng,,0,0,0,,That won't do.
-Dialogue: 0,1:05:20.28,1:05:24.81,Dialouge - Eng,,0,0,0,,If the pilot is taken out, Eva's AT-Field will completely disappear!
+Dialogue: 0,1:05:20.28,1:05:24.81,Dialouge - Eng,,0,0,0,,If the pilot is taken out, Eva's A.T. Field will completely disappear!
 Dialogue: 0,1:05:25.36,1:05:27.40,Dialouge - Eng,,0,0,0,,Things will go from bad to worse.
 Dialogue: 0,1:05:28.37,1:05:29.11,Dialouge - Eng,,0,0,0,,But...
 Dialogue: 0,1:05:36.20,1:05:37.33,Dialouge - Eng,,0,0,0,,There's no other choice...
 Dialogue: 0,1:05:38.81,1:05:41.70,Dialouge - Eng,,0,0,0,,Emergency recovery! Blow the explosive bolts!
 Dialogue: 0,1:06:03.71,1:06:05.50,Dialouge - Eng,,0,0,0,,{\i1}The target has ceased fire.{\i0}
-Dialogue: 0,1:06:05.50,1:06:07.76,Dialouge - Eng,,0,0,0,,{\i1}Unit 01 retrieved. Sending to Cage 99!{\i0}
+Dialogue: 0,1:06:05.50,1:06:07.76,Dialouge - Eng,,0,0,0,,{\i1}Unit-01 retrieved. Sending to Cage 99!{\i0}
 Dialogue: 0,1:06:07.76,1:06:08.81,Dialouge - Eng,,0,0,0,,{\i1}Rescue team, stand by!{\i0}
 Dialogue: 0,1:06:08.92,1:06:11.11,Dialouge - Eng,,0,0,0,,First priority is cooling the LCL in the plug!
 Dialogue: 0,1:06:11.33,1:06:13.11,Dialouge - Eng,,0,0,0,,Pilot confirmed! His heart rate is weak.
@@ -2107,12 +2107,12 @@ Dialogue: 0,1:07:20.38,1:07:23.17,Dialouge - Eng,,0,0,0,,Well then, let's hear t
 Dialogue: 0,1:07:23.92,1:07:25.48,Dialouge - Eng,,0,0,0,,Judging from the previous battle...
 Dialogue: 0,1:07:25.48,1:07:29.94,Dialouge - Eng,,0,0,0,,...the target automatically engages any enemy within a certain range.
 Dialogue: 0,1:07:30.04,1:07:33.17,Dialouge - Eng,,0,0,0,,Meaning it's impossible for Eva to engage it in close combat, right?
-Dialogue: 0,1:07:33.17,1:07:34.48,Dialouge - Eng,,0,0,0,,How's its AT Field?
+Dialogue: 0,1:07:33.17,1:07:34.48,Dialouge - Eng,,0,0,0,,How's its A.T. Field?
 Dialogue: 0,1:07:34.80,1:07:36.74,Dialouge - Eng,,0,0,0,,Still operational. And to make matters worse...
 Dialogue: 0,1:07:36.74,1:07:40.26,Dialouge - Eng,,0,0,0,,with its phase pattern constantly shifting, the field's surface is unstable.
 Dialogue: 0,1:07:40.26,1:07:42.37,Dialouge - Eng,,0,0,0,,Neutralizing it will be very difficult.
 Dialogue: 0,1:07:42.79,1:07:44.37,Dialouge - Eng,,0,0,0,,According to Magi's calculations...
-Dialogue: 0,1:07:44.47,1:07:53.42,Dialouge - Eng,,0,0,0,,...to pierce the enemy's AT Field, we'd need to drop so many aerial N2 Mines that it would destroy NERV HQ as well.
+Dialogue: 0,1:07:44.47,1:07:53.42,Dialouge - Eng,,0,0,0,,...to pierce the enemy's A.T. Field, we'd need to drop so many aerial N2 Mines that it would destroy NERV HQ as well.
 Dialogue: 0,1:07:53.54,1:07:56.50,Dialouge - Eng,,0,0,0,,The Magi 2 at Matsushiro reached the same conclusion.
 Dialogue: 0,1:07:57.09,1:08:02.94,Dialouge - Eng,,0,0,0,,Right now, the Japanese government and U.N. Forces are petitioning NERV HQ to do just that.
 Dialogue: 0,1:08:02.94,1:08:05.60,Dialouge - Eng,,0,0,0,,An easy suggestion to make when they're not the ones in danger.
@@ -2123,7 +2123,7 @@ Dialogue: 0,1:08:15.64,1:08:19.88,Dialouge - Eng,,0,0,0,,The estimated time from
 Dialogue: 0,1:08:19.88,1:08:25.28,Dialouge - Eng,,0,0,0,,reaching the area above HQ, is 12:06:54 AM tomorrow morning.
 Dialogue: 0,1:08:25.39,1:08:27.58,Dialouge - Eng,,0,0,0,,We have ten hours and fourteen minutes.
 Dialogue: 0,1:08:27.69,1:08:30.91,Dialouge - Eng,,0,0,0,,To make matters worse, Unit 00 needs to be calibrated before it's operational.
-Dialogue: 0,1:08:30.91,1:08:34.88,Dialouge - Eng,,0,0,0,,Unit 01 is also currently unmovable due to its previous injury.
+Dialogue: 0,1:08:30.91,1:08:34.88,Dialouge - Eng,,0,0,0,,Unit-01 is also currently unmovable due to its previous injury.
 Dialogue: 0,1:08:36.03,1:08:38.65,Dialouge - Eng,,0,0,0,,The situation sure isn't favorable.
 Dialogue: 0,1:08:38.65,1:08:41.13,Dialouge - Eng,,0,0,0,,We're certainly backed into a corner.
 Dialogue: 0,1:08:41.13,1:08:43.28,Dialouge - Eng,,0,0,0,,Should we wave the white flag?
@@ -2154,17 +2154,17 @@ Dialogue: 0,1:10:58.12,1:11:02.86,Dialouge - Eng,,0,0,0,,{\i1}Superconductor pow
 Dialogue: 0,1:11:02.86,1:11:08.45,Dialouge - Eng,,0,0,0,,{\i1}The transformer relay system is scheduled to be up and running at 10:50 PM Japan time.{\i0}
 Dialogue: 0,1:11:08.56,1:11:10.37,Dialouge - Eng,,0,0,0,,How's progress on the sniping system?
 Dialogue: 0,1:11:10.63,1:11:14.54,Dialouge - Eng,,0,0,0,,No problems in assembly. We'll have no trouble making it by the operation start time.
-Dialogue: 0,1:11:14.63,1:11:16.20,Dialouge - Eng,,0,0,0,,What is Unit 01's status?
+Dialogue: 0,1:11:14.63,1:11:16.20,Dialouge - Eng,,0,0,0,,What is Unit-01's status?
 Dialogue: 0,1:11:16.45,1:11:19.54,Dialouge - Eng,,0,0,0,,It's currently being outfitted with G-type sniping equipment.
 Dialogue: 0,1:11:19.91,1:11:21.71,Dialouge - Eng,,0,0,0,,It will be ready to deploy in two hours.
 Dialogue: 0,1:11:21.91,1:11:24.50,Dialouge - Eng,,0,0,0,,Roger that! All that's left now is the pilot.
 Dialogue: 0,1:11:25.85,1:11:28.34,Dialouge - Eng,,0,0,0,,But I wonder... Will he be willing to pilot it again?
-Dialogue: 0,1:11:31.32,1:11:34.39,Dialouge - Eng,,0,0,0,,What do you plan to do about Unit 01's pilot?
+Dialogue: 0,1:11:31.32,1:11:34.39,Dialouge - Eng,,0,0,0,,What do you plan to do about Unit-01's pilot?
 Dialogue: 0,1:11:34.83,1:11:37.72,Dialouge - Eng,,0,0,0,,It's too soon to test the dummy plug system.
 Dialogue: 0,1:11:38.36,1:11:42.39,Dialouge - Eng,,0,0,0,,We have no other practical means other than letting the current pilot handle it.
 Dialogue: 0,1:11:42.39,1:11:44.65,Dialouge - Eng,,0,0,0,,In the worst case, do we brainwash him?
 Dialogue: 0,1:11:44.65,1:11:47.29,Dialouge - Eng,,0,0,0,,If things don't work out, there's always Rei.
-Dialogue: 0,1:11:47.75,1:11:52.01,Dialouge - Eng,,0,0,0,,Rei in Unit 01? Isn't that a bit too risky?
+Dialogue: 0,1:11:47.75,1:11:52.01,Dialouge - Eng,,0,0,0,,Rei in Unit-01? Isn't that a bit too risky?
 Dialogue: 0,1:11:52.76,1:11:58.16,Dialouge - Eng,,0,0,0,,We must use whatever means are available to us. \NWe still have eight Angels we must defeat.
 Dialogue: 0,1:11:59.72,1:12:01.87,Dialouge - Eng,,0,0,0,,And then, we realize our goal...
 Dialogue: 0,1:12:10.87,1:12:13.26,Dialouge - Eng,,0,0,0,,{\i1}I hate it... piloting the Eva.{\i0}
@@ -2188,7 +2188,7 @@ Dialogue: 0,1:13:20.23,1:13:21.50,Dialouge - Eng,,0,0,0,,Ayanami...?
 Dialogue: 0,1:13:23.38,1:13:24.50,Dialouge - Eng,,0,0,0,,You were here the whole time?
 Dialogue: 0,1:13:26.75,1:13:32.25,Dialouge - Eng,,0,0,0,,I'm here to tell you about the schedule for Operation Yashima, which will commence at midnight tomorrow.
 Dialogue: 0,1:13:32.25,1:13:38.39,Dialouge - Eng,,0,0,0,,Pilots Ikari and Ayanami are to report at Terminal 2 at 19:30.
-Dialogue: 0,1:13:38.39,1:13:43.44,Dialouge - Eng,,0,0,0,,At 20:00, Unit 01, accompanied by Unit 00, will be transferred.
+Dialogue: 0,1:13:38.39,1:13:43.44,Dialouge - Eng,,0,0,0,,At 20:00, Unit-01, accompanied by Unit 00, will be transferred.
 Dialogue: 0,1:13:43.44,1:13:45.73,Dialouge - Eng,,0,0,0,,Launch is scheduled at 20:05.
 Dialogue: 0,1:13:45.73,1:13:48.73,Dialouge - Eng,,0,0,0,,By 20:30, they will arrive at the 2nd Futagoyama fortress.
 Dialogue: 0,1:13:49.23,1:13:52.04,Dialouge - Eng,,0,0,0,,After that, they will await further orders.
@@ -2203,7 +2203,7 @@ Dialogue: 0,1:14:13.12,1:14:17.51,Dialouge - Eng,,0,0,0,,It's terrifying...! But
 Dialogue: 0,1:14:17.51,1:14:19.22,Dialouge - Eng,,0,0,0,,You're afraid of Eva?
 Dialogue: 0,1:14:20.13,1:14:21.77,Dialouge - Eng,,0,0,0,,Then stay and rest.
 Dialogue: 0,1:14:23.30,1:14:24.39,Dialouge - Eng,,0,0,0,,Rest?
-Dialogue: 0,1:14:24.76,1:14:26.89,Dialouge - Eng,,0,0,0,,I will pilot Unit 01.
+Dialogue: 0,1:14:24.76,1:14:26.89,Dialouge - Eng,,0,0,0,,I will pilot Unit-01.
 Dialogue: 0,1:14:29.56,1:14:30.27,Dialouge - Eng,,0,0,0,,Ayanami!
 Dialogue: 0,1:14:31.43,1:14:32.45,Dialouge - Eng,,0,0,0,,Farewell.
 Dialogue: 0,1:14:48.94,1:14:51.34,Dialouge - Eng,,0,0,0,,{\i1}The Angel is penetrating through the 17th armored plate!{\i0}
@@ -2257,12 +2257,12 @@ Dialogue: 0,1:18:44.44,1:18:47.20,Dialouge - Eng,,0,0,0,,I'll pilot it... one mo
 Dialogue: 0,1:19:01.91,1:19:05.68,Dialouge - Eng,,0,0,0,,I will now inform you of your roles in this operation.
 Dialogue: 0,1:19:05.68,1:19:06.68,Dialouge - Eng,,0,0,0,,Shinji-kun.
 Dialogue: 0,1:19:06.68,1:19:07.45,Dialouge - Eng,,0,0,0,,Yes?
-Dialogue: 0,1:19:07.45,1:19:09.62,Dialouge - Eng,,0,0,0,,You will act as gunner in Unit 01.
+Dialogue: 0,1:19:07.45,1:19:09.62,Dialouge - Eng,,0,0,0,,You will act as gunner in Unit-01.
 Dialogue: 0,1:19:09.62,1:19:10.62,Dialouge - Eng,,0,0,0,,Yes.
 Dialogue: 0,1:19:10.62,1:19:12.97,Dialouge - Eng,,0,0,0,,Rei, you and Unit 00 will be on defense.
 Dialogue: 0,1:19:13.48,1:19:14.27,Dialouge - Eng,,0,0,0,,Yes.
 Dialogue: 0,1:19:14.75,1:19:18.10,Dialouge - Eng,,0,0,0,,The operation this time calls for utmost precision.
-Dialogue: 0,1:19:18.58,1:19:24.65,Dialouge - Eng,,0,0,0,,That's why, instead of the uncalibrated Unit 00, we chose to use Unit 01, even though it's still undergoing repairs.
+Dialogue: 0,1:19:18.58,1:19:24.65,Dialouge - Eng,,0,0,0,,That's why, instead of the uncalibrated Unit 00, we chose to use Unit-01, even though it's still undergoing repairs.
 Dialogue: 0,1:19:25.19,1:19:26.65,Dialouge - Eng,,0,0,0,,Listen, Shinji-kun.
 Dialogue: 0,1:19:26.65,1:19:32.68,Dialouge - Eng,,0,0,0,,Because of the Earth's rotation, magnetic field, and gravity, the positron cannon won't fire straight.
 Dialogue: 0,1:19:32.68,1:19:35.12,Dialouge - Eng,,0,0,0,,Don't forget to take those factors into account.
@@ -2274,13 +2274,13 @@ Dialogue: 0,1:19:49.79,1:19:55.24,Dialouge - Eng,,0,0,0,,Your sniping position, 
 Dialogue: 0,1:19:55.24,1:20:01.08,Dialouge - Eng,,0,0,0,,Thus, all you have to do is to follow the on-screen prompts, and fire when the center indicators meet.
 Dialogue: 0,1:20:01.56,1:20:03.36,Dialouge - Eng,,0,0,0,,The machine will handle the rest.
 Dialogue: 0,1:20:05.46,1:20:10.99,Dialouge - Eng,,0,0,0,,However only one spot has been set up to supply all of this power.
-Dialogue: 0,1:20:11.58,1:20:14.70,Dialouge - Eng,,0,0,0,,For that reason, Unit 01 cannot change its firing position.
+Dialogue: 0,1:20:11.58,1:20:14.70,Dialouge - Eng,,0,0,0,,For that reason, Unit-01 cannot change its firing position.
 Dialogue: 0,1:20:15.39,1:20:17.41,Dialouge - Eng,,0,0,0,,Retreating isn't an option, then?
 Dialogue: 0,1:20:17.41,1:20:18.19,Dialouge - Eng,,0,0,0,,Correct.
 Dialogue: 0,1:20:18.47,1:20:21.61,Dialouge - Eng,,0,0,0,,So what if I miss, and the Angel shoots back?
 Dialogue: 0,1:20:21.61,1:20:26.63,Dialouge - Eng,,0,0,0,,Don't concern yourself with unnecessary thoughts now. Focus on destroying the target in one shot.
 Dialogue: 0,1:20:27.36,1:20:29.89,Dialouge - Eng,,0,0,0,,If I don't, we'll be in a big pinch, huh?
-Dialogue: 0,1:20:30.36,1:20:34.21,Dialouge - Eng,,0,0,0,,I... I am supposed to protect Unit 01?
+Dialogue: 0,1:20:30.36,1:20:34.21,Dialouge - Eng,,0,0,0,,I... I am supposed to protect Unit-01?
 Dialogue: 0,1:20:34.21,1:20:34.72,Dialouge - Eng,,0,0,0,,Yes.
 Dialogue: 0,1:20:35.30,1:20:36.06,Dialouge - Eng,,0,0,0,,Understood.
 Dialogue: 0,1:20:36.92,1:20:39.11,Dialouge - Eng,,0,0,0,,It's time. Both of you, get dressed.
@@ -2390,9 +2390,9 @@ Dialogue: 0,1:28:24.19,1:28:27.14,Dialouge - Eng,,0,0,0,,Still operational. Barr
 Dialogue: 0,1:28:27.14,1:28:29.84,Dialouge - Eng,,0,0,0,,But unable to verify if another shot is possible.
 Dialogue: 0,1:28:29.84,1:28:32.33,Dialouge - Eng,,0,0,0,,No need to verify. Just do it.
 Dialogue: 0,1:28:32.33,1:28:33.53,Dialouge - Eng,,0,0,0,,Shinji-kun, are you alright?!
-Dialogue: 0,1:28:34.54,1:28:37.60,Dialouge - Eng,,0,0,0,,Hurry and get Unit 01 back into firing position!
+Dialogue: 0,1:28:34.54,1:28:37.60,Dialouge - Eng,,0,0,0,,Hurry and get Unit-01 back into firing position!
 Dialogue: 0,1:28:39.68,1:28:40.50,Dialouge - Eng,,0,0,0,,Shinji-kun?!
-Dialogue: 0,1:28:50.48,1:28:53.58,Dialouge - Eng,,0,0,0,,Unit 01's pilot is hereby relieved of duty.
+Dialogue: 0,1:28:50.48,1:28:53.58,Dialouge - Eng,,0,0,0,,Unit-01's pilot is hereby relieved of duty.
 Dialogue: 0,1:28:54.00,1:28:56.81,Dialouge - Eng,,0,0,0,,We'll entrust the task of sniping to Unit 00's pilot.
 Dialogue: 0,1:28:57.13,1:28:57.97,Dialouge - Eng,,0,0,0,,Ikari!
 Dialogue: 0,1:28:58.46,1:29:01.34,Dialouge - Eng,,0,0,0,,If he is of no use, we have no choice but to cut him off.
@@ -2415,7 +2415,7 @@ Dialogue: 0,1:30:07.75,1:30:09.05,Dialouge - Eng,,0,0,0,,{\i1}Try your hardest!{
 Dialogue: 0,1:30:09.61,1:30:10.13,Dialouge - Eng,,0,0,0,,Yes!
 Dialogue: 0,1:30:12.86,1:30:14.14,Dialouge - Eng,,0,0,0,,Cannon locked into position.
 Dialogue: 0,1:30:14.14,1:30:15.56,Dialouge - Eng,,0,0,0,,{\i1}Readjusting power discharge system.{\i0}
-Dialogue: 0,1:30:15.56,1:30:17.47,Dialouge - Eng,,0,0,0,,Unit 01's G-type equipment has been purged.
+Dialogue: 0,1:30:15.56,1:30:17.47,Dialouge - Eng,,0,0,0,,Unit-01's G-type equipment has been purged.
 Dialogue: 0,1:30:17.77,1:30:20.89,Dialouge - Eng,,0,0,0,,Switching final firing system to manual mode.
 Dialogue: 0,1:30:28.15,1:30:30.65,Dialouge - Eng,,0,0,0,,Enemy drill tip has breached the ceiling directly above HQ!
 Dialogue: 0,1:30:30.81,1:30:31.98,Dialouge - Eng,,0,0,0,,Ready second shot!
