@@ -16,9 +16,9 @@ Video File: [Beatrice-Raws] Evangelion 1.0 You Are (Not) Alone [BDRip 1920x1080 
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 333
-Active Line: 337
-Video Position: 32758
+Scroll Position: 360
+Active Line: 368
+Video Position: 35323
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -95,7 +95,7 @@ Dialogue: 0,0:06:10.68,0:06:12.77,Dialouge,,0,0,0,,Em chỉ làm theo lời th�
 Dialogue: 0,0:06:13.89,0:06:15.19,Dialouge,,0,0,0,,Vậy sao?
 Dialogue: 0,0:06:15.19,0:06:16.56,Dialouge,,0,0,0,,Mà thôi không sao.
 Dialogue: 0,0:06:17.27,0:06:20.65,Dialouge,,0,0,0,,Nhân tiện thì, chúng ta gọi những\N sinh vật bí ẩn như vậy là "Angel".
-Dialogue: 0,0:06:26.74,0:06:28.20,Dialouge,,0,0,0,,Angel thứ 4...
+Dialogue: 0,0:06:26.74,0:06:28.20,Dialouge,,0,0,0,,Angel thứ tư...
 Dialogue: 0,0:06:28.57,0:06:31.32,Dialouge,,0,0,0,,Năng lực tự phục hồi của nó thật là đáng nể.
 Dialogue: 0,0:06:31.32,0:06:34.91,Dialouge,,0,0,0,,Chính nó đã{Có thể tự mình hoàn thiện như vậy,/Tự thân nó?} {/n quả thật}là một dạng sống gần như hoàn hảo.{nó thật sự gần như là một dạng sống hoàn hảo.}
 Dialogue: 0,0:06:34.91,0:06:35.66,Dialouge,,0,0,0,,Đương nhiên phải thế.{Đương nhiên là nó tự hồi phục được./Đó là lẽ đương nhiên.}
@@ -168,8 +168,8 @@ Dialogue: 0,0:09:53.20,0:09:55.20,Dialouge,,0,0,0,,Vậy thì, phần còn lại
 Dialogue: 0,0:09:59.62,0:10:01.75,Dialouge,,0,0,0,,Cuộc hội ngộ sau 3 năm à...
 Dialogue: 0,0:10:01.75,0:10:05.21,Dialouge,,0,0,0,,Phó Chỉ Huy! Mục tiêu vẫn đang tiếp tục di chuyển!
 Dialogue: 0,0:10:05.21,0:10:06.21,Dialouge,,0,0,0,,Tôi biết rồi.
-Dialogue: 0,0:10:06.21,0:10:08.21,Dialouge,,0,0,0,,Toàn bộ đơn vị, vào Vị trí Chiến đấu Thứ I. {cấp 1 hay thứ 1? tại nhớ có cấp}
-Dialogue: 0,0:10:09.63,0:10:13.01,Dialouge,,0,0,0,,{\i1}Nhắc lại, toàn bộ đơn vị, vào Vị trí Chiến đấu Thứ I.{\i0}
+Dialogue: 0,0:10:06.21,0:10:08.21,Dialouge,,0,0,0,,Toàn bộ đơn vị, vào Vị trí Chiến đấu thứ nhất. {cấp 1 hay thứ nhất? tại nhớ có cấp, check sau}
+Dialogue: 0,0:10:09.63,0:10:13.01,Dialouge,,0,0,0,,{\i1}Nhắc lại, toàn bộ đơn vị, vào Vị trí Chiến đấu thứ nhất.{\i0}
 Dialogue: 0,0:10:13.01,0:10:15.51,Dialouge,,0,0,0,,{\i1}Lực Lượng Bộ Binh, chuẩn bị chiến đấu!{\i0}
 Dialogue: 0,0:10:18.68,0:10:22.31,Dialouge,,0,0,0,,Ikari Shinij-kun, có vài thứ tôi muốn cho em xem.
 Dialogue: 0,0:10:25.86,0:10:29.98,Dialouge,,0,0,0,,Cỗ Máy Chiến Đấu Đa Dụng{ Hình Người} Tối Thượng do con người tạo nên. {từ á sang âu, ai cũng khoái "tối thượng" /j}
@@ -366,34 +366,36 @@ Dialogue: 0,0:22:40.88,0:22:42.09,Dialouge,,0,0,0,,Rei...
 Dialogue: 0,0:22:42.59,0:22:44.05,Dialouge,,0,0,0,,Không...
 Dialogue: 0,0:22:44.63,0:22:47.05,Dialouge,,0,0,0,,Ayanami... {\alpha&HFF&}{\t(1652,1653,\alpha&H00&)}Rei!
 Dialogue: 0,0:23:08.78,0:23:10.29,Dialouge,,0,0,0,,Trần nhà lạ quá...
-Dialogue: 0,0:23:17.21,0:23:20.67,Dialouge,,0,0,0,,Angel thứ IV tấn công chúng ta và đã bị tiêu diệt...
-Dialogue: 0,0:23:21.17,0:23:24.01,Dialouge,,0,0,0,,Việc tiếp nhận Đứa trẻ Thứ III...
-Dialogue: 0,0:23:24.01,0:23:25.93,Dialouge,,0,0,0,,và việc kích hoạt  Eva Unit-01...
-Dialogue: 0,0:23:26.55,0:23:28.39,Dialouge,,0,0,0,,Mọi thứ đều đang diễn ra theo kế hoạch.
-Dialogue: 0,0:23:28.60,0:23:32.81,Dialouge,,0,0,0,,Ngoại trừ chi phí khổng lồ đề bảo trì Unit-01 là ngoài kế hoạch thôi.
-Dialogue: 0,0:23:32.81,0:23:35.19,Dialouge,,0,0,0,,So với chi phí duy trì việc bảo quản Unit-00,
+Dialogue: 0,0:23:17.21,0:23:20.67,Dialouge,,0,0,0,,Việc Angel thứ tư đã đến và đã bị diệt trừ...{Angel thứ tư tấn công chúng ta và đã bị tiêu diệt...}
+Dialogue: 0,0:23:21.17,0:23:24.01,Dialouge,,0,0,0,,rồi tới việc tiếp nhận Đứa trẻ thứ ba...
+Dialogue: 0,0:23:24.01,0:23:25.93,Dialouge,,0,0,0,,và việc kích hoạt Eva Unit-01...
+Dialogue: 0,0:23:26.55,0:23:28.39,Dialouge,,0,0,0,,Hầu hết đều theo đúng kế hoạch.
+Dialogue: 0,0:23:28.60,0:23:32.81,Dialouge,,0,0,0,,Chỉ có chi phí khổng lồ để bảo trì Unit-01 là ngoài kế hoạch thôi.
+Dialogue: 0,0:23:32.81,0:23:35.19,Dialouge,,0,0,0,,So với {chi phí duy trì việc bảo quản}Unit-00 đang được giữ đông lạnh kia,
 Dialogue: 0,0:23:35.19,0:23:36.65,Dialouge,,0,0,0,,thì cũng chẳng phải là vấn đề gì to tát.
 Dialogue: 0,0:23:37.27,0:23:40.11,Dialouge,,0,0,0,,Công tác thu hồi Eva Unit-01 đã hoàn tất.
-Dialogue: 0,0:23:40.11,0:23:42.73,Dialouge,,0,0,0,,Hiện tại nó đang được giữ trogn khoang số 6.
-Dialogue: 0,0:23:42.73,0:23:45.49,Dialouge,,0,0,0,,Quá trình kiểm tra dự kiến sẽ bắt đầu lúc 10h cùng ngày.
+Dialogue: 0,0:23:40.11,0:23:42.73,Dialouge,,0,0,0,,Hiện tại nó đang được giữ trong Lồng{keiji/cage/khoang/buồng} 6.
+Dialogue: 0,0:23:42.73,0:23:45.49,Dialouge,,0,0,0,,Quá trình kiểm tra dự kiến bắt đầu lúc 10 giờ.
 Dialogue: 0,0:23:45.49,0:23:47.28,Dialouge,,0,0,0,,Bản ghi lúc nó bạo phát thì sao?
-Dialogue: 0,0:23:47.28,0:23:50.66,Dialouge,,0,0,0,,Hoàn toàn trống, hoàn toàn không có gì được ghi lại cả.
+Dialogue: 0,0:23:47.28,0:23:50.66,Dialouge,,0,0,0,,Hoàn toàn trống. Không có gì được ghi lại cả.
 Dialogue: 0,0:23:50.66,0:23:53.41,Dialouge,,0,0,0,,Rốt cuộc thì vẫn không rõ nguyên nhân nhỉ.
-Dialogue: 0,0:23:53.41,0:23:57.50,Dialouge,,0,0,0,,Tin tưởng vào khả năng chiến đấu của nó...có lẽ là hơi khó nhỉ.
-Dialogue: 0,0:23:57.71,0:24:02.42,Dialouge,,0,0,0,,Mặc dù có một vài lỗi nhỏ, \Nnhưng nếu nó vẫn có ích khi Angel thứ 5 xuất hiện thì điều đó vẫn chấp nhận được.
-Dialogue: 0,0:24:02.75,0:24:03.92,Dialouge,,0,0,0,,Không cần phải lo lắng.
-Dialogue: 0,0:24:03.92,0:24:06.17,Dialouge,,0,0,0,,Chúng tôi vẫn sẽ tiếp tục quá trình triển khai Unit-01.
-Dialogue: 0,0:24:06.17,0:24:10.60,Dialouge,,0,0,0,,Unit-02 và phi công của nó ở Đức đang trải qua các bài kiểm tra thực chiến.
-Dialogue: 0,0:24:10.60,0:24:13.77,Dialouge,,0,0,0,,Quá trình sản xuất Unit-03 vẫn đang được xúc tiến.
-Dialogue: 0,0:24:13.77,0:24:17.56,Dialouge,,0,0,0,,Việc vận hành NERV và Eva một cách thích đáng chính là trách nhiệm của ông.
-Dialogue: 0,0:24:17.56,0:24:20.11,Dialouge,,0,0,0,,Hy vọng là chúng ta sẽ không phải thất vọng vì ông.
-Dialogue: 0,0:24:20.11,0:24:24.73,Dialouge,,0,0,0,,Đúng vậy. Việc tiêu diệt các Angel chỉ là một phần trong khế ước với Lilith mà thôi.
+Dialogue: 0,0:23:53.41,0:23:57.50,Dialouge,,0,0,0,,Việc coi nó như vũ khí... có vẻ không đáng tin lắm.{-KiOZ}{vn: Tin tưởng vào khả năng chiến đấu của nó... có lẽ là hơi khó đây. eng: Niềm tin của ta vào năng lực chiến đấu của nó... có lẽ đặt hơi nhầm chỗ} {jp: Tin dùng nó như là vũ khí... hơi khó. }
+Dialogue: 0,0:23:57.71,0:24:02.42,Dialouge,,0,0,0,,Mặc dù có vài lỗi nhỏ, miễn nó sẵn sàng cho Angel thứ năm là được.{Mặc dù có một vài lỗi nhỏ, nhưng nếu nó vẫn có ích khi Angel thứ 5 xuất hiện thì điều đó vẫn chấp nhận được.}
+Dialogue: 0,0:24:02.75,0:24:03.92,Dialouge,,0,0,0,,Không cần phải lo.
+Dialogue: 0,0:24:03.92,0:24:06.17,Dialouge,,0,0,0,,Chúng tôi sẽ tiếp tục triển khai Unit-01.
+Dialogue: 0,0:24:06.17,0:24:10.60,Dialouge,,0,0,0,,Còn Unit-02 và phi công của nó ở Đức đang trải qua các bài kiểm tra thực chiến.
+Dialogue: 0,0:24:10.60,0:24:13.77,Dialouge,,0,0,0,,Quá trình sản xuất Unit-03 trở đi {以後 (igo) - and beyond, after}vẫn đang theo kế hoạch.{Quá trình sản xuất Unit-03 vẫn đang được xúc tiến.}
+Dialogue: 0,0:24:13.77,0:24:17.56,Dialouge,,0,0,0,,Trách nhiệm của cậu là sử dụng{vận hành} NERV và Eva theo cách phù hợp{chính đáng? thích đáng?}.
+Dialogue: 0,0:24:17.56,0:24:20.11,Dialouge,,0,0,0,,Hy vọng cậu sẽ không làm bọn ta thất vọng.{là chúng ta sẽ không phải thất vọng vì ông}
+Dialogue: 0,0:24:20.11,0:24:24.73,Dialouge,,0,0,0,,Đúng vậy. Việc tiêu diệt các Angel \Nchỉ là một phần trong khế ước với Lilith mà thôi.
 Dialogue: 0,0:24:24.73,0:24:26.70,Dialouge,,0,0,0,,{\1c&H548586&\3c&H548586&\be2\fscy90\bord0.15\shad0\fs75\pos(978,702)}Kế hoạch hoàn thiện Nhân loại
 Dialogue: 0,0:24:24.73,0:24:26.70,Dialouge,,0,0,0,,{\1c&H548586&\3c&H548586&\be2\fscy90\bord0.15\shad0\fs75\pos(967.5,330)}Top Secret
 Dialogue: 0,0:24:24.73,0:24:26.70,Dialouge,,0,0,0,,{\1c&H7DB1AB&\3c&H7DB1AB&\be2\fscy90\bord0.15\shad0\fs75\pos(967.5,912)}Báo cáo giữa kỳ lần thứ 27
-Dialogue: 0,0:24:24.73,0:24:26.70,Dialouge,,0,0,0,,Kế hoạch Hoàn thiện Nhân loại...
-Dialogue: 0,0:24:26.90,0:24:30.57,Dialouge,,0,0,0,,Hoàn thành kế hoạch đó chính là ước nguyện cuối cùng của chúng ta.
-Dialogue: 0,0:24:30.57,0:24:35.08,Dialouge,,0,0,0,,Tôi hiểu rồi.\N {\alpha&HFF&\t(1400,1401,\alpha&H00&)}Vậy thì mọi thứ sẽ được diễn ra theo kịch bản của SEELE.
+Dialogue: 0,0:24:24.73,0:24:26.70,Dialouge,,0,0,0,,Dự Án Hoàn thiện Nhân loại...
+Dialogue: 0,0:24:26.90,0:24:30.57,Dialouge,,0,0,0,,Hoàn thành dự án đó là ước nguyện cuối cùng của chúng ta.
+Dialogue: 0,0:24:30.57,0:24:31.91,Dialouge,,0,0,0,,Tôi hiểu rồi.
+Dialogue: 0,0:24:31.91,0:24:32.91,Dialouge,,0,0,0,,Mọi thứ sẽ diễn ra
+Dialogue: 0,0:24:32.91,0:24:35.08,Dialouge,,0,0,0,,theo kịch bản của SEELE.
 Dialogue: 0,0:25:00.56,0:25:04.77,Dialouge,,0,0,0,,Xác chết của một Angel sau khi A.T Field bị phá vỡ, \Nđể lại một cảnh tượng không ngờ nhỉ?
 Dialogue: 0,0:25:05.15,0:25:07.28,Dialouge,,0,0,0,,Cứ như là địa ngục vậy...
 Dialogue: 0,0:25:07.28,0:25:10.74,Dialouge,,0,0,0,,Cảm giác khó chịu cứ như hồi Chấn Động Thứ II vậy.
